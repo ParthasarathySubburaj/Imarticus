@@ -39,7 +39,7 @@ class scientific_calcultor(calculator):
             result = result * i
         return result
     
-    def fibo (n):
+    def fibo (self, n):
         a = 1
         b = 1
         i = 3
