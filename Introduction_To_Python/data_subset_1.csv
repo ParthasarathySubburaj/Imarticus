@@ -1,0 +1,999 @@
+,Transaction_date,Product,Price,Payment_Type,Name,Account_Created
+0,01-02-2009 06:17,Product1,1200.0,Mastercard,carolina,01-02-2009 06:00
+1,01-02-2009 04:53,Product1,1200.0,Visa,Betina,01-02-2009 04:42
+2,01-02-2009 13:08,Product1,1200.0,Mastercard,Federica e Andrea,01-01-2009 16:21
+3,01-03-2009 14:44,Product1,1200.0,Visa,Gouya,9/25/05 21:13
+4,01-04-2009 12:56,Product2,3600.0,Visa,Gerd W ,11/15/08 15:47
+5,01-04-2009 13:19,Product1,1200.0,Visa,LAURENCE,9/24/08 15:19
+6,01-04-2009 20:11,Product1,1200.0,Mastercard,Fleur,01-03-2009 09:38
+7,01-02-2009 20:09,Product1,1200.0,Mastercard,adam,01-02-2009 17:43
+8,01-04-2009 13:17,Product1,1200.0,Mastercard,Renee Elisabeth,01-04-2009 13:03
+9,01-04-2009 14:11,Product1,1200.0,Visa,Aidan,06-03-2008 04:22
+10,01-05-2009 02:42,Product1,1200.0,Diners,Stacy,01-05-2009 02:23
+11,01-05-2009 05:39,Product1,1200.0,Amex,Heidi,01-05-2009 04:55
+12,01-02-2009 09:16,Product1,1200.0,Mastercard,Sean ,01-02-2009 08:32
+13,01-05-2009 10:08,Product1,1200.0,Visa,Georgia,11-11-2008 15:53
+14,01-02-2009 14:18,Product1,1200.0,Visa,Richard,12-09-2008 12:07
+15,01-04-2009 01:05,Product1,1200.0,Diners,Leanne,01-04-2009 00:00
+16,01-05-2009 11:37,Product1,1200.0,Visa,Janet,01-05-2009 09:35
+17,01-06-2009 05:02,Product1,1200.0,Diners,barbara,01-06-2009 02:41
+18,01-06-2009 07:45,Product2,3600.0,Visa,Sabine,01-06-2009 07:00
+19,01-02-2009 07:35,Product1,1200.0,Diners,Hani,12/30/08 5:44
+20,01-06-2009 12:56,Product1,1200.0,Visa,Jeremy,01-06-2009 10:58
+21,01-01-2009 11:05,Product1,1200.0,Diners,Janis,12-10-2007 12:37
+22,01-05-2009 04:10,Product1,1200.0,Mastercard,Nicola,01-05-2009 02:33
+23,01-06-2009 07:18,Product1,1200.0,Visa,asuman,01-06-2009 07:07
+24,01-02-2009 01:11,Product1,1200.0,Mastercard,Lena,12/31/08 2:48
+25,01-01-2009 02:24,Product1,1200.0,Visa,Lisa,01-01-2009 01:56
+26,01-07-2009 08:08,Product1,1200.0,Diners,Bryan Kerrene,01-07-2009 07:39
+27,01-02-2009 02:57,Product1,1200.0,Visa,chris,01-03-2008 07:23
+28,01-01-2009 20:21,Product1,1200.0,Visa,Maxine,10/24/08 6:48
+29,01-08-2009 00:42,Product1,1200.0,Visa,Family,01-08-2009 00:28
+30,01-08-2009 03:56,Product1,1200.0,Mastercard,Katherine,01-08-2009 03:33
+31,01-08-2009 03:16,Product1,1200.0,Mastercard,Linda,01-08-2009 03:06
+32,01-08-2009 01:59,Product1,1200.0,Mastercard,SYLVIA,11/28/07 11:56
+33,01-03-2009 09:03,Product1,1200.0,Diners,Sheila,01-03-2009 08:47
+34,01-05-2009 13:17,Product1,1200.0,Mastercard,Stephanie,01-05-2009 12:45
+35,01-06-2009 07:46,Product1,1200.0,Amex,Kelly,01-06-2009 07:30
+36,01-05-2009 20:00,Product2,3600.0,Visa,James,12-10-2008 19:53
+37,01-08-2009 16:24,Product1,1200.0,Visa,jennifer,01-08-2009 15:57
+38,01-09-2009 06:39,Product1,1200.0,Mastercard,Anneli,01-09-2009 05:09
+39,01-06-2009 22:19,Product2,3600.0,Amex,Ritz,01-06-2009 12:00
+40,01-06-2009 23:00,Product2,3600.0,Amex,Sylvia,01-06-2009 12:00
+41,01-07-2009 07:44,Product1,1200.0,Mastercard,Marie,01-07-2009 05:35
+42,01-03-2009 13:24,Product1,1200.0,Visa,Mehmet Fatih,01-03-2009 12:47
+43,01-07-2009 15:12,Product2,3600.0,Visa,Anabela,01-05-2009 19:55
+44,01-07-2009 20:15,Product1,1200.0,Amex,Nicole,01-07-2009 17:17
+45,01-03-2009 10:11,Product2,3600.0,Visa,Christiane ,01-03-2009 09:27
+46,01-09-2009 15:58,Product1,1200.0,Mastercard,Sari,01-09-2009 14:53
+47,01-03-2009 13:11,Product1,1200.0,Mastercard,simone,10/31/08 0:31
+48,01-10-2009 12:57,Product1,1200.0,Amex,Vanessa,02-07-2007 20:16
+49,01-10-2009 14:43,Product1,1200.0,Diners,Anupam,01-09-2009 11:38
+50,01-10-2009 12:05,Product1,1200.0,Visa,Karina,07-01-2008 12:53
+51,01-06-2009 01:20,Product1,1200.0,Mastercard,Frank,01-02-2009 17:51
+52,01-10-2009 14:56,Product1,1200.0,Visa,Angela,01-08-2009 03:06
+53,01-07-2009 10:01,Product1,1200.0,Visa,Darren,01-07-2009 09:04
+54,01-01-2009 01:26,Product1,1200.0,Mastercard,Nikki,01-01-2009 00:58
+55,01-11-2009 02:04,Product1,1200.0,Visa,chris,01-11-2009 00:33
+56,01-11-2009 14:17,Product1,1200.0,Visa,Stephanie,01-11-2009 13:39
+57,01-10-2009 21:38,Product1,1200.0,Visa,Anushka,01-10-2009 21:17
+58,01-07-2009 06:18,Product1,1200.0,Mastercard,June ,2/23/06 11:56
+59,01-04-2009 08:39,Product2,3600.0,Diners,Baybars,01-03-2009 17:17
+60,01-05-2009 00:31,Product1,1200.0,Mastercard,Bonnie,01-04-2009 23:45
+61,01-02-2009 06:07,Product1,1200.0,Visa,Cindy ,12/30/08 10:21
+62,01-12-2009 03:25,Product1,1200.0,Mastercard,chrissy,01-12-2009 03:12
+63,01-04-2009 13:56,Product1,1200.0,Mastercard,Tamar,11/29/07 9:23
+64,01-07-2009 00:12,Product2,3600.0,Mastercard,Deirdre,12-01-2008 06:25
+65,01-12-2009 05:18,Product1,1200.0,Mastercard,Bernadett,01-12-2009 04:45
+66,01-08-2009 15:16,Product1,1200.0,Visa,Dottie,01-08-2009 14:56
+67,01-11-2009 11:33,Product1,1200.0,Visa,Stefan,01-11-2009 09:02
+68,01-07-2009 20:22,Product1,1200.0,Visa,Gina,11/23/08 19:30
+69,01-02-2009 22:00,Product1,1200.0,Diners,Lynne,01-02-2009 21:04
+70,01-05-2009 13:52,Product1,1200.0,Mastercard,Tammy,01-05-2009 05:55
+71,01-08-2009 20:32,Product1,1200.0,Visa,Kim,01-08-2009 20:21
+72,01-08-2009 13:34,Product1,1200.0,Visa,Bruce,01-06-2009 14:38
+73,01-11-2009 13:08,Product1,1200.0,Visa,Rosa Maria,01-11-2009 12:38
+74,01-12-2009 19:04,Product1,1200.0,Visa,Lydia,9/20/08 20:53
+75,01-12-2009 13:41,Product1,1200.0,Visa,Eric,01-12-2009 13:16
+76,01-11-2009 10:38,Product1,1200.0,Mastercard,AnaPaula,09-04-2008 09:26
+77,1/13/09 5:57,Product1,1200.0,Visa,Robin,10/15/08 5:31
+78,1/13/09 6:13,Product1,1200.0,Visa,Gitte,1/13/09 5:17
+79,01-08-2009 13:14,Product1,1200.0,Visa,Dr. Claudia,01-08-2009 12:47
+80,01-02-2009 11:41,Product1,1200.0,Visa,Crystal,01-01-2009 12:00
+81,01-07-2009 19:50,Product1,1200.0,Diners,Delphine,01-03-2009 12:04
+82,01-01-2009 20:28,Product1,1200.0,Visa,nathalie,01-01-2009 20:11
+83,01-03-2009 15:22,Product1,1200.0,Mastercard,Lindi,2/20/08 22:45
+84,01-12-2009 03:03,Product2,3600.0,Mastercard,Valda,01-12-2009 02:48
+85,01-05-2009 08:58,Product2,3600.0,Mastercard,Marcia,09-01-2008 03:39
+86,01-10-2009 14:03,Product1,1200.0,Mastercard,Kevin,3/13/06 4:56
+87,1/13/09 11:26,Product1,1200.0,Visa,Clare,1/13/09 11:15
+88,01-02-2009 12:18,Product1,1200.0,Visa,Alice,12-05-2007 11:37
+89,1/14/09 4:54,Product1,1200.0,Mastercard,ZENA,1/14/09 4:34
+90,01-06-2009 17:15,Product1,1200.0,Visa,Andrea,12/24/08 17:31
+91,01-03-2009 13:56,Product1,1200.0,Visa,Rennae,01-03-2009 12:30
+92,01-04-2009 07:54,Product1,1200.0,Visa,Gerhard,10/21/05 21:49
+93,01-12-2009 07:28,Product1,1200.0,Amex,Megan,12-10-2008 16:41
+94,01-06-2009 15:15,Product1,1200.0,Mastercard,Danielle,01-06-2009 14:59
+95,1/13/09 23:56,Product1,1200.0,Mastercard,Tod,1/13/09 23:13
+96,1/14/09 19:32,Product1,1200.0,Visa,Janaina,12/16/08 22:19
+97,01-06-2009 21:13,Product1,1200.0,Visa,Kofi,01-07-2008 21:16
+98,1/14/09 11:19,Product1,1200.0,Visa,Jennifer,1/14/09 10:44
+99,1/13/09 19:39,Product1,1200.0,Visa,Jolene ,01-06-2009 22:00
+100,01-08-2009 07:26,Product1,1200.0,Mastercard,anne,1/25/08 15:46
+101,1/15/09 2:40,Product1,1200.0,Mastercard,Alexis,1/15/09 2:04
+102,01-12-2009 06:40,Product1,1200.0,Visa,Dez,01-10-2009 12:50
+103,1/15/09 3:43,Product1,1200.0,Visa,Stephanie,12/26/08 9:01
+104,01-05-2009 15:39,Product1,1200.0,Visa,Melissa ,12-10-2008 09:14
+105,01-10-2009 05:21,Product1,1200.0,Amex,CLARE,01-10-2009 00:07
+106,1/15/09 4:12,Product1,1200.0,Mastercard,catherine,1/15/09 4:02
+107,01-12-2009 11:48,Product1,1200.0,Visa,Veronique ,7/24/08 15:48
+108,01-06-2009 10:48,Product1,1200.0,Mastercard,Bruce and Camille,8/21/07 21:19
+109,1/14/09 9:10,Product1,1200.0,Mastercard,Ellen,1/14/09 8:25
+110,1/14/09 22:44,Product1,1200.0,Visa,Amy,1/14/09 22:21
+111,01-06-2009 07:23,Product1,1200.0,Visa,Anna,7/21/08 12:03
+112,01-01-2009 05:04,Product1,1200.0,Mastercard,Regina,12/16/02 4:09
+113,1/15/09 11:56,Product1,1200.0,Visa,Heidi,1/14/09 9:16
+114,1/15/09 11:58,Product1,1200.0,Visa,Jessica,1/14/09 5:59
+115,01-12-2009 09:43,Product1,1200.0,Diners,Petra,01-07-2009 08:39
+116,1/15/09 12:33,Product1,1200.0,Visa,Brian,1/15/09 12:19
+117,1/14/09 11:35,Product1,1200.0,Visa,Kenny,1/13/09 17:42
+118,1/14/09 15:40,Product1,1200.0,Amex,ayse,1/13/09 19:37
+119,01-03-2009 11:08,Product1,1200.0,Amex,Maria and Timothy,06-05-2006 22:42
+120,01-12-2009 01:37,Product1,1200.0,Visa,IMAN,01-12-2009 01:26
+121,1/16/09 7:21,Product1,2100.0,Mastercard,Gerald,11-03-2008 14:28
+122,1/15/09 12:54,Product1,1200.0,Mastercard,Annelies,1/15/09 12:22
+123,01-07-2009 07:19,Product1,1200.0,Amex,Jocelyn,6/30/08 9:33
+124,01-03-2009 09:56,Product1,1200.0,Visa,Kara,12/31/08 16:26
+125,1/16/09 17:41,Product1,1200.0,Visa,Orsi,1/16/09 17:01
+126,01-05-2009 05:33,Product1,1200.0,Visa,Ben,01-05-2009 03:19
+127,01-02-2009 00:50,Product1,1200.0,Visa,Sam,01-02-2009 00:10
+128,1/13/09 1:51,Product1,1200.0,Visa,Filip and Teresa,01-12-2009 01:40
+129,1/15/09 10:24,Product1,1200.0,Visa,Grace ,1/13/09 12:30
+130,01-11-2009 08:59,Product1,1200.0,Visa,Chelsey ,11-09-2008 05:53
+131,1/15/09 15:56,Product1,1200.0,Amex,Charis,11-11-2005 11:49
+132,01-01-2009 12:19,Product1,1200.0,Visa,Marlene,1/16/06 14:45
+133,01-06-2009 14:03,Product1,1200.0,Visa,Fie,05-01-2008 08:26
+134,01-09-2009 15:32,Product1,1200.0,Diners,Nicole ,01-07-2009 12:31
+135,1/17/09 12:59,Product1,1200.0,Diners,Linda,10/29/08 13:09
+136,01-12-2009 12:37,Product1,1200.0,Visa,Janet,9/13/07 14:20
+137,01-04-2009 07:43,Product1,1200.0,Mastercard,Jamie,01-04-2009 06:51
+138,1/17/09 16:22,Product1,1200.0,Visa,Chad,1/17/09 15:22
+139,01-01-2009 03:51,Product1,1200.0,Mastercard,sunny,9/14/05 22:53
+140,1/18/09 5:27,Product1,1200.0,Visa,Anna,1/18/09 4:28
+141,1/18/09 5:15,Product1,1200.0,Diners,Roger,1/18/09 4:44
+142,01-01-2009 01:51,Product1,1200.0,Mastercard,Si,12/14/05 15:46
+143,1/18/09 6:30,Product1,1200.0,Visa,Sherri,6/22/08 14:10
+144,01-11-2009 10:51,Product1,1200.0,Mastercard,Katherine,12-06-2008 01:34
+145,01-04-2009 17:02,Product1,1200.0,Mastercard,Clare,12/31/05 0:55
+146,1/17/09 1:23,Product1,1200.0,Amex,Campbell,1/16/09 14:26
+147,1/18/09 2:16,Product1,1200.0,Visa,Ruth,1/16/09 19:32
+148,1/18/09 11:34,Product2,3600.0,Visa,Cheryl,10/28/05 14:57
+149,1/18/09 4:38,Product1,1200.0,Visa,Doug,12/28/07 13:39
+150,1/18/09 13:26,Product3,7500.0,Mastercard,Julianne,1/18/09 12:20
+151,1/18/09 11:53,Product1,1200.0,Visa,Shailesh,1/18/09 0:00
+152,1/18/09 12:04,Product1,1200.0,Visa,Conrad,1/18/09 0:00
+153,1/13/09 19:54,Product1,1200.0,Diners,Alison,01-03-2006 06:09
+154,01-05-2009 21:06,Product1,1200.0,Mastercard,Tracy,01-05-2009 16:27
+155,1/14/09 6:32,Product1,1200.0,Visa,Kate,04-12-2006 06:14
+156,01-04-2009 23:48,Product1,1200.0,Diners,Sarka,01-04-2009 22:41
+157,1/18/09 16:32,Product2,3600.0,Visa,Therese,1/18/09 16:23
+158,1/18/09 17:04,Product2,3600.0,Visa,Abdul-L,1/18/09 16:58
+159,1/18/09 17:20,Product2,3600.0,Visa,heidi,1/18/09 17:16
+160,1/18/09 17:39,Product2,3600.0,Visa,jiyoung,1/18/09 17:34
+161,01-11-2009 11:20,Product1,1200.0,Visa,Klara,12/31/08 19:48
+162,1/13/09 20:59,Product1,1200.0,Mastercard,Andrew,1/13/09 16:44
+163,01-12-2009 16:50,Product1,1200.0,Visa,Vicki and Bill,01-04-2009 21:33
+164,01-12-2009 15:12,Product1,1200.0,Mastercard,David,01-12-2009 14:07
+165,01-06-2009 12:27,Product1,1200.0,Mastercard,Antonella,01-06-2009 12:04
+166,01-09-2009 18:52,Product1,1200.0,Visa,David,11/25/08 7:56
+167,1/18/09 23:17,Product1,1200.0,Visa,Greg,1/18/09 15:18
+168,01-07-2009 08:21,Product1,1200.0,Visa,Jannik ,01-03-2009 11:06
+169,01-03-2009 09:54,Product1,1200.0,Visa,Sylvia,12/29/08 10:38
+170,01-05-2009 19:37,Product1,1200.0,Amex,Bernadette,11-07-2007 09:49
+171,01-04-2009 12:49,Product1,1200.0,Diners,Denise,5/25/07 10:58
+172,01-08-2009 11:55,Product2,3600.0,Visa,Caren,01-03-2009 12:39
+173,1/14/09 18:21,Product1,1200.0,Visa,luciana,9/25/05 6:25
+174,01-11-2009 19:01,Product1,1200.0,Diners,Maja,01-11-2009 18:17
+175,1/14/09 5:20,Product2,3600.0,Visa,Kristen,01-12-2009 13:31
+176,1/15/09 8:07,Product1,1200.0,Visa,Kirstie,12/13/08 19:35
+177,1/15/09 8:10,Product1,1200.0,Visa,Scott ,12/13/08 19:35
+178,01-02-2009 17:45,Product1,1200.0,Mastercard,Jammie,12-09-2005 17:19
+179,1/19/09 16:10,Product1,1200.0,Mastercard,Frank,1/19/09 15:31
+180,1/19/09 16:55,Product1,1200.0,Mastercard,scott,1/19/09 16:18
+181,01-10-2009 17:41,Product1,1200.0,Visa,Jiri,01-10-2009 16:32
+182,1/18/09 13:49,Product2,3600.0,Visa,Bev,01-11-2009 12:00
+183,1/15/09 5:47,Product1,1200.0,Visa,Dave and Amy,1/15/09 0:21
+184,1/19/09 23:06,Product1,1200.0,Mastercard,Rebecca,1/19/09 22:53
+185,1/19/09 11:12,Product1,1200.0,Visa,Melissa,8/27/08 8:22
+186,01-04-2009 01:38,Product1,1200.0,Amex,jeremy,7/15/08 21:04
+187,1/20/09 3:11,Product1,1200.0,Visa,Randy,1/20/09 3:02
+188,01-03-2009 10:52,Product1,1200.0,Visa,Djeiny,4/18/05 9:27
+189,1/20/09 5:24,Product3 ,7500.0,Mastercard,Amanda,1/20/09 5:13
+190,1/20/09 6:03,Product1,1200.0,Mastercard,Andrea ,1/20/09 5:13
+191,01-10-2009 11:37,Product1,1200.0,Amex,Joanna,12/28/08 20:10
+192,1/20/09 5:50,Product1,1200.0,Visa,Jessica,1/20/09 4:23
+193,1/19/09 16:32,Product1,1200.0,Amex,alison,1/19/09 10:24
+194,1/18/09 10:42,Product1,1200.0,Visa,malin,1/18/09 0:00
+195,01-07-2009 06:11,Product2,3600.0,Visa,Tiffany ,01-07-2009 05:30
+196,01-03-2009 08:29,Product1,1200.0,Visa,Genevieve,10-10-2008 01:26
+197,01-01-2009 02:09,Product1,1200.0,Mastercard,Saraya,03-12-2006 11:31
+198,1/20/09 12:34,Product1,1200.0,Mastercard,Anastasia,1/20/09 12:17
+199,1/20/09 3:51,Product1,1200.0,Visa,Elizabeth,11-12-2008 03:34
+200,1/15/09 11:26,Product1,1200.0,Visa,Nicole,07-11-2007 11:18
+201,01-05-2009 16:55,Product1,1200.0,Visa,Jeffrey,9/29/03 17:08
+202,01-12-2009 19:47,Product1,1200.0,Mastercard,Blanca Gabriela ,12-10-2008 21:49
+203,01-04-2009 19:20,Product1,1200.0,Amex,Elisa,01-04-2009 18:38
+204,01-10-2009 08:33,Product2,3600.0,Mastercard,Patricia ,02-04-2007 10:09
+205,01-09-2009 14:51,Product1,1200.0,Visa,Bob,01-07-2009 18:15
+206,1/16/09 2:41,Product3,7500.0,Visa,Kristyn,1/15/09 18:01
+207,1/16/09 18:36,Product1,1200.0,Visa,Elizabeth,11-01-2008 16:32
+208,1/20/09 8:10,Product1,1200.0,Amex,Cathy,08-05-2007 18:52
+209,01-06-2009 12:45,Product2,3600.0,Amex,Kaylee,01-05-2009 14:06
+210,01-10-2009 08:13,Product1,1200.0,Visa,suzanne,01-09-2009 19:15
+211,01-07-2009 14:15,Product1,1200.0,Mastercard,Cassandra,01-05-2009 15:42
+212,01-08-2009 15:27,Product1,1200.0,Mastercard,Jennifer,01-04-2009 22:22
+213,1/21/09 11:36,Product1,1200.0,Visa,nicole,12/23/08 12:02
+214,1/21/09 14:06,Product1,1200.0,Visa,Sean,1/21/09 12:00
+215,01-02-2009 02:28,Product1,1200.0,Mastercard,Morgan,05-03-2008 04:14
+216,1/19/09 19:07,Product1,1200.0,Diners,Harriet,1/19/09 16:52
+217,1/18/09 6:27,Product1,1200.0,Mastercard,Janine,10/27/05 19:22
+218,1/20/09 11:58,Product1,1200.0,Mastercard,Debora,11-01-2008 23:14
+219,1/20/09 16:32,Product1,1200.0,Visa,Vishpala,01-02-2008 09:52
+220,01-01-2009 07:09,Product1,1200.0,Amex,Emer,2/28/05 5:40
+221,1/21/09 14:55,Product1,1200.0,Diners,john,1/21/09 10:23
+222,01-07-2009 22:29,Product1,1200.0,Mastercard,lailani,01-07-2009 13:23
+223,01-11-2009 22:22,Product2,3600.0,Visa,STEPHANIE,12/30/08 17:48
+224,1/21/09 14:25,Product1,1200.0,Visa,Tricia,12/28/07 15:28
+225,1/18/09 16:50,Product1,1200.0,Visa,Celina,1/18/09 16:25
+226,1/21/09 12:08,Product2,3600.0,Visa,Rosemary,1/21/09 11:39
+227,1/22/09 6:41,Product1,1200.0,Visa,Patrick,1/22/09 4:32
+228,01-12-2009 09:23,Product1,1200.0,Mastercard,Jacob,01-10-2009 14:55
+229,1/22/09 8:23,Product1,1200.0,Visa,elisabeth,1/22/09 7:55
+230,01-03-2009 06:41,Product2,3600.0,Visa,ayelet,08-07-2008 09:24
+231,01-01-2009 12:20,Product2,3600.0,Visa,seemab,9/17/05 3:32
+232,01-04-2009 22:00,Product2,3600.0,Amex,Lucien,01-04-2009 11:32
+233,1/21/09 2:15,Product1,1200.0,Visa,Kevin ,01-08-2009 02:50
+234,01-01-2009 14:22,Product1,1200.0,Mastercard,Liban,6/19/08 10:48
+235,1/16/09 1:07,Product2,3600.0,Diners,Lesley,1/14/09 4:10
+236,1/20/09 8:51,Product1,1200.0,Visa,Marie,7/23/08 14:59
+237,01-04-2009 09:02,Product1,1200.0,Visa,Charlene,12/13/08 19:20
+238,01-06-2009 08:34,Product1,1200.0,Visa,Orit,01-05-2009 15:00
+239,01-08-2009 04:16,Product1,1200.0,Visa,Alan,4/18/06 13:26
+240,1/23/09 3:33,Product2,3600.0,Mastercard,Anja Langer,1/23/09 3:00
+241,01-06-2009 04:18,Product1,1200.0,Visa,Lina,01-06-2009 03:38
+242,1/23/09 3:30,Product1,1200.0,Amex,Larry,1/23/09 3:27
+243,01-10-2009 04:04,Product1,1200.0,Visa,Jessica,12/20/08 8:41
+244,01-05-2009 02:57,Product3,7500.0,Visa,Marion,12/29/08 3:16
+245,1/21/09 14:15,Product1,1200.0,Amex,Eric,1/21/09 13:56
+246,1/21/09 6:39,Product1,1200.0,Amex,Miriane,7/30/07 21:10
+247,1/19/09 8:14,Product1,1200.0,Visa,Jeff,01-04-2009 12:39
+248,1/23/09 8:00,Product1,1200.0,Diners,christina,1/22/09 9:55
+249,1/22/09 23:35,Product1,1200.0,Mastercard,Shannon,1/22/09 23:23
+250,1/14/09 3:09,Product1,1200.0,Mastercard,Angela,4/25/07 5:08
+251,1/16/09 1:51,Product1,1200.0,Visa,Angela,1/16/09 1:38
+252,01-01-2009 06:29,Product1,1200.0,Mastercard,Elaine,08-03-2007 02:48
+253,1/21/09 7:59,Product1,1200.0,Visa,Helen,04-07-2008 17:15
+254,1/23/09 7:37,Product2,3600.0,Amex,Fatisha,1/23/09 6:32
+255,1/18/09 14:39,Product1,1200.0,Visa,Nina,01-05-2009 15:43
+256,1/24/09 9:01,Product2,3600.0,Visa,Barbara,1/24/09 8:02
+257,1/15/09 1:41,Product1,1200.0,Diners,Karen,1/14/09 4:13
+258,1/17/09 7:23,Product1,1200.0,Visa,Georgina,11/28/07 10:05
+259,1/23/09 11:37,Product1,1200.0,Diners,Kellie,1/23/09 10:42
+260,1/19/09 15:02,Product1,1200.0,Mastercard,Terry,1/19/09 14:43
+261,01-11-2009 07:10,Product2,3600.0,Visa,LAURIE,03-07-2006 05:47
+262,01-10-2009 03:28,Product1,1200.0,Visa,frauke,11/24/08 15:50
+263,01-07-2009 19:03,Product2,3600.0,Mastercard,Cindy,12/17/07 19:55
+264,1/17/09 14:02,Product1,1200.0,Visa,Simone,12-07-2005 19:48
+265,1/25/09 0:09,Product1,1200.0,Visa,Hilde ,6/20/08 22:08
+266,01-09-2009 14:27,Product1,1200.0,Visa,Leah,6/14/07 13:14
+267,01-09-2009 14:32,Product1,1200.0,Visa,Laine,6/14/07 13:14
+268,01-11-2009 15:59,Product1,1200.0,Visa,kirsten,1/17/06 8:51
+269,01-06-2009 14:38,Product2,3600.0,Mastercard,Elizabeth,5/14/07 12:48
+270,01-06-2009 09:52,Product1,1200.0,Mastercard,Anna,01-03-2009 15:01
+271,01-01-2009 09:21,Product1,1200.0,Diners,Babs,01-01-2009 08:05
+272,01-03-2009 07:58,Product1,1200.0,Mastercard,Gerlinde,01-02-2009 12:27
+273,01-11-2009 11:36,Product1,1200.0,Mastercard,Hollyn,10/14/08 14:23
+274,1/13/09 14:53,Product1,1200.0,Visa,leiser,1/13/09 13:22
+275,01-01-2009 10:06,Product2,3600.0,Mastercard,Irene,01-01-2009 09:13
+276,1/16/09 5:07,Product1,1200.0,Amex,Lisa,08-06-2007 07:48
+277,01-06-2009 16:37,Product1,1200.0,Visa,Ann,12/28/08 12:31
+278,1/18/09 17:21,Product1,1200.0,Mastercard,Nichol Jane,01-11-2009 20:59
+279,1/13/09 15:18,Product1,1200.0,Amex,Beatriz,1/13/09 14:46
+280,1/24/09 8:21,Product1,1200.0,Mastercard,corina,7/19/05 12:42
+281,1/24/09 8:25,Product1,1200.0,Mastercard,manon,7/19/05 12:42
+282,1/18/09 13:06,Product1,1200.0,Diners,Isabelle,1/18/09 8:44
+283,1/22/09 18:44,Product1,1200.0,Visa,Lynne,1/22/09 17:24
+284,01-08-2009 08:58,Product1,1200.0,Mastercard,Doug,01-08-2009 08:22
+285,01-04-2009 09:54,Product1,1200.0,Mastercard,AMY,12/30/08 20:41
+286,1/13/09 20:22,Product1,1200.0,Visa,Kim,08-02-2008 14:28
+287,01-09-2009 10:22,Product1,1200.0,Mastercard,HELIDA,01-05-2009 14:49
+288,01-05-2009 12:28,Product1,1200.0,Visa,Cameron,01-05-2009 12:02
+289,1/26/09 3:43,Product1,1200.0,Mastercard,Wendy,1/26/09 3:10
+290,1/26/09 3:49,Product2,3600.0,Mastercard,Jane,03-01-2008 00:00
+291,01-11-2009 13:16,Product2,3600.0,Visa,shelby,01-11-2009 12:20
+292,1/22/09 15:32,Product1,1200.0,Mastercard,Tara,2/27/07 11:35
+293,01-09-2009 14:25,Product1,1200.0,Amex,James,04-07-2008 00:00
+294,1/21/09 11:28,Product1,800.0,Amex,Heloise ,9/25/05 20:26
+295,01-01-2009 14:19,Product1,1200.0,Mastercard,Gabriel,5/21/08 11:39
+296,1/26/09 4:30,Product1,1200.0,Visa,Jodie ,1/26/09 0:00
+297,01-07-2009 04:45,Product1,1200.0,Amex,Jeremy,01-07-2009 04:30
+298,01-11-2009 12:12,Product1,1200.0,Visa,Helga,11/30/05 12:50
+299,1/26/09 10:24,Product1,1200.0,Visa,Eleanor,12-01-2008 18:30
+300,1/26/09 8:58,Product1,1200.0,Diners,Miss,1/26/09 8:46
+301,01-07-2009 17:51,Product1,1200.0,Visa,Marie,1/13/06 9:38
+302,1/18/09 20:16,Product1,1200.0,Mastercard,Lisa,1/18/09 19:47
+303,1/13/09 9:51,Product1,1200.0,Mastercard,Priska,01-04-2009 23:43
+304,1/24/09 18:43,Product1,1200.0,Visa,Katrine,01-11-2009 13:33
+305,01-05-2009 00:46,Product1,1200.0,Amex,Lisa,01-02-2009 03:03
+306,01-09-2009 01:12,Product1,1200.0,Visa,Sabrina,6/18/08 6:35
+307,1/26/09 6:25,Product1,1200.0,Visa,prof,1/19/09 6:38
+308,1/21/09 16:57,Product1,1200.0,Mastercard,KeithMichelle,1/21/09 16:37
+309,01-05-2009 05:33,Product1,1200.0,Mastercard,Kim,12-08-2005 13:22
+310,1/27/09 5:10,Product1,1200.0,Visa,anissa,1/15/09 10:07
+311,01-07-2009 08:00,Product1,1200.0,Mastercard,john,5/26/05 7:00
+312,1/20/09 7:08,Product2,3600.0,Visa,Miye,1/19/09 8:06
+313,1/27/09 2:26,Product1,1200.0,Diners,Heidi,1/27/09 2:16
+314,01-05-2009 06:14,Product1,1200.0,Mastercard,T,01-05-2009 04:52
+315,1/13/09 8:11,Product2,3600.0,Visa,Daniele,5/27/08 11:01
+316,01-10-2009 09:18,Product1,1200.0,Diners,luisa,05-09-2006 10:43
+317,01-08-2009 18:52,Product1,1200.0,Visa,Nadine,01-07-2009 15:30
+318,01-12-2009 10:06,Product1,1200.0,Mastercard,Tina,01-10-2009 14:15
+319,01-01-2009 19:25,Product1,1200.0,Diners,Damali,01-08-2008 20:41
+320,1/27/09 15:28,Product1,1200.0,Visa,Katherine,1/17/09 17:52
+321,01-02-2009 18:43,Product1,1200.0,Visa,Kathryn,12/22/08 15:39
+322,01-08-2009 18:41,Product1,1200.0,Diners,Veronique,12-09-2007 17:59
+323,01-04-2009 18:34,Product1,1200.0,Visa,Erica,01-04-2009 16:53
+324,1/25/09 8:32,Product1,1200.0,Visa,L,9/17/07 17:41
+325,1/23/09 22:19,Product1,1200.0,Mastercard,Diana,1/23/09 22:10
+326,01-07-2009 10:03,Product1,1200.0,Mastercard,Emma,12-01-2008 06:09
+327,1/18/09 3:46,Product1,1200.0,Visa,Marina,1/18/09 0:54
+328,1/28/09 0:40,Product1,1200.0,Mastercard,Natalie ,1/27/09 22:04
+329,01-02-2009 15:18,Product1,1200.0,Diners,Brenda,09-01-2004 02:08
+330,1/18/09 13:59,Product1,1200.0,Diners,Nita,12-01-2005 19:57
+331,1/16/09 9:54,Product1,1200.0,Mastercard,Marian,08-03-2008 18:20
+332,1/28/09 7:07,Product1,1200.0,Visa,Kevin,1/28/09 6:57
+333,1/28/09 7:31,Product1,1200.0,Visa,cari,1/28/09 7:22
+334,1/18/09 12:32,Product1,1200.0,Visa,Cassandra,12/14/08 14:26
+335,1/13/09 14:05,Product1,1200.0,Amex,Christof and Heidi,01-09-2009 07:54
+336,1/28/09 7:49,Product1,1200.0,Visa,Ina,1/28/09 7:45
+337,1/28/09 3:07,Product1,1200.0,Visa,Lisa,1/26/09 11:47
+338,01-12-2009 15:16,Product1,1200.0,Visa,Camille and Carmen,01-12-2009 11:41
+339,01-06-2009 11:17,Product2,3600.0,Visa,Trina,2/21/08 8:53
+340,1/23/09 9:49,Product1,1200.0,Visa,Ginger,1/23/09 8:18
+341,1/24/09 4:01,Product1,1200.0,Visa,breon,01-07-2006 10:56
+342,1/25/09 18:21,Product1,1200.0,Visa,Marion,1/25/09 16:35
+343,1/15/09 10:51,Product1,1200.0,Mastercard,Pia ,01-11-2009 08:54
+344,01-02-2009 05:14,Product1,1200.0,Visa,Dr. Donald,01-01-2005 06:03
+345,01-09-2009 10:35,Product2,3600.0,Visa,Jenna and Paul,01-08-2009 14:02
+346,01-04-2009 10:16,Product1,1200.0,Mastercard,Rebecca,12/28/08 10:50
+347,01-02-2009 12:16,Product1,1200.0,Mastercard,Monique,12-11-2008 06:16
+348,1/28/09 12:31,Product1,1200.0,Diners,lilia ,1/28/09 12:21
+349,1/14/09 12:07,Product1,1200.0,Mastercard,Lainey,1/13/09 22:28
+350,1/16/09 7:20,Product2,3600.0,Mastercard,Jag,1/15/09 4:53
+351,01-06-2009 09:55,Product1,1200.0,Mastercard,Charlene ,10-07-2008 14:55
+352,01-07-2009 12:55,Product1,1200.0,Amex,Fiona,01-05-2009 06:26
+353,1/19/09 12:14,Product1,1200.0,Mastercard,burt,05-10-2008 07:07
+354,1/13/09 15:19,Product2,3600.0,Visa,Maggie,6/27/07 4:41
+355,1/18/09 8:56,Product1,1200.0,Mastercard,Stanford,1/30/08 13:16
+356,01-04-2009 17:54,Product1,1200.0,Amex,ruth,01-01-2009 10:12
+357,01-05-2009 13:46,Product1,1200.0,Visa,Courtney,11-11-2008 14:19
+358,01-05-2009 10:49,Product2,3600.0,Amex,Courtney,8/23/07 0:00
+359,01-12-2009 18:24,Product1,1200.0,Diners,Anthony,12/18/08 7:14
+360,1/18/09 4:01,Product1,1200.0,Visa,Eleanor,01-06-2009 00:18
+361,1/16/09 10:58,Product1,1200.0,Visa,GAIA,7/27/07 7:22
+362,1/13/09 8:20,Product1,1200.0,Mastercard,Zane,03-04-2005 05:51
+363,01-12-2009 01:42,Product1,1200.0,Mastercard,Beate,01-07-2009 07:56
+364,1/28/09 13:07,Product1,1200.0,Amex,BALA,11/29/07 5:56
+365,1/29/09 5:43,Product1,1200.0,Visa,Mrs,1/29/09 5:18
+366,1/29/09 5:30,Product1,1200.0,Diners,Vanessa,1/29/09 4:49
+367,1/13/09 18:08,Product1,1200.0,Amex,Amanda,1/13/09 17:02
+368,01-09-2009 15:24,Product1,1200.0,Mastercard,alex ,01-09-2009 13:59
+369,1/23/09 15:33,Product1,1200.0,Mastercard,T,1/23/09 14:18
+370,1/29/09 12:28,Product1,1200.0,Mastercard,Alva and Martin,5/21/07 14:57
+371,1/13/09 11:31,Product1,1200.0,Visa,Anett,01-09-2009 11:30
+372,1/29/09 10:09,Product2,3600.0,Mastercard,Jacqui,1/29/09 9:59
+373,1/29/09 15:08,Product1,1200.0,Visa,KERRY,1/29/09 14:04
+374,01-04-2009 05:12,Product1,1200.0,Visa,DeeDee,12/30/08 8:40
+375,1/22/09 22:16,Product2,3600.0,Mastercard,leanne,1/17/09 23:28
+376,01-05-2009 19:26,Product1,1200.0,Visa,katie,01-05-2009 19:14
+377,01-11-2009 12:22,Product1,1200.0,Visa,Marina,01-11-2009 07:18
+378,01-02-2009 09:31,Product1,1200.0,Visa,camilla,01-02-2009 09:09
+379,01-05-2009 11:21,Product1,1200.0,Visa,pirunkit,01-05-2009 05:46
+380,1/17/09 9:49,Product1,1200.0,Diners,Kathrin,2/27/08 20:02
+381,1/28/09 1:38,Product1,1200.0,Mastercard,Kate,4/16/07 12:58
+382,1/19/09 10:32,Product1,1200.0,Mastercard,Maie,01-06-2009 17:57
+383,1/26/09 12:05,Product1,1250.0,Mastercard,verena,01-06-2009 17:57
+384,01-07-2009 18:53,Product1,1200.0,Visa,Marie-Christine,12/29/08 9:59
+385,1/26/09 11:38,Product1,1200.0,Mastercard,Gabriella,1/26/09 7:16
+386,01-08-2009 13:19,Product1,1200.0,Mastercard,valerie et nicolas,01-08-2009 05:31
+387,01-11-2009 14:56,Product1,1200.0,Visa,Nicole,01-05-2009 05:51
+388,1/30/09 20:36,Product1,1200.0,Visa,Renee,1/30/09 20:05
+389,01-01-2009 08:09,Product1,1200.0,Mastercard,Nicole,12/30/08 0:55
+390,1/17/09 11:09,Product1,1200.0,Mastercard,Joachim,1/17/09 10:46
+391,1/31/09 7:22,Product1,1200.0,Visa,Monica ,2/29/08 17:34
+392,1/31/09 9:12,Product1,1200.0,Visa,Nanci,8/28/08 10:22
+393,1/31/09 8:56,Product1,1200.0,Mastercard,Laura,1/31/09 8:03
+394,1/31/09 9:00,Product1,1200.0,Visa,ciara and mike,1/31/09 8:32
+395,01-11-2009 14:07,Product1,1200.0,Visa,Sarah,01-11-2009 13:08
+396,01-01-2009 12:25,Product2,3600.0,Mastercard,Anne-line,3/29/05 23:14
+397,1/31/09 11:14,Product2,3600.0,Mastercard,Ulrika,1/31/09 11:10
+398,01-02-2009 09:57,Product1,1200.0,Amex,leigh,2/20/05 17:20
+399,01-04-2009 13:20,Product1,1200.0,Mastercard,Nuria,01-04-2009 12:08
+400,1/22/09 12:32,Product1,1200.0,Mastercard,Tejal,01-02-2008 09:51
+401,1/18/09 6:09,Product1,1200.0,Mastercard,Ignacio,5/21/07 18:56
+402,01-08-2009 00:04,Product1,1200.0,Visa,ZOE,01-07-2009 23:34
+403,1/24/09 7:14,Product1,1200.0,Mastercard,nihan,03-02-2008 07:35
+404,1/24/09 11:05,Product1,1200.0,Visa,alan,7/30/07 15:16
+405,01-06-2009 15:12,Product1,1200.0,Amex,lydia,9/23/06 8:42
+406,1/24/09 17:06,Product1,1200.0,Visa,Tracey,1/24/09 15:51
+407,01-03-2009 09:58,Product1,1200.0,Visa,Anja,10/19/08 8:27
+408,01-09-2009 16:35,Product1,1200.0,Diners,Jennifer,12/29/05 9:26
+409,01-12-2009 14:50,Product1,1200.0,Visa,Holly,01-12-2009 09:54
+410,01-07-2009 13:49,Product1,1200.0,Diners,megan,01-07-2009 12:36
+411,01-09-2009 19:41,Product1,1200.0,Mastercard,Tarah,01-05-2009 18:02
+412,1/26/09 4:53,Product1,1200.0,Visa,Gerardo,1/26/09 4:12
+413,1/23/09 21:41,Product1,1200.0,Visa,Joanne,12/26/08 11:00
+414,01-06-2009 16:07,Product1,1200.0,Visa,Margaret,12/21/08 12:21
+415,01-10-2009 07:55,Product1,1200.0,Visa,Laura,01-07-2009 09:47
+416,1/28/09 20:44,Product1,1200.0,Visa,Whitney,1/28/09 19:36
+417,01-09-2009 03:38,Product1,1200.0,Visa,Ravinder,06-03-2008 04:22
+418,1/19/09 8:52,Product1,1200.0,Visa,Pam,01-06-2009 15:24
+419,1/15/09 7:26,Product1,1200.0,Mastercard,Celina,1/14/09 0:00
+420,1/30/09 19:12,Product1,1200.0,Diners,Heather,1/30/09 18:54
+421,01-05-2009 12:41,Product1,1200.0,Mastercard,Kathryn,01-05-2009 11:50
+422,1/28/09 20:59,Product1,1200.0,Visa,Michele ,1/28/09 9:40
+423,01-10-2009 21:36,Product1,1200.0,Visa,Craig,08-10-2008 16:47
+424,1/25/09 19:59,Product1,1200.0,Visa,Kim,8/13/08 18:27
+425,01-07-2009 08:03,Product1,1200.0,Amex,maria,4/17/05 22:28
+426,1/21/09 9:07,Product1,1200.0,Visa,Elaine,04-02-2008 09:59
+427,1/23/09 14:43,Product1,1200.0,Visa,Madison,1/18/09 11:34
+428,01-05-2009 13:07,Product1,1200.0,Visa,Amanda,01-02-2009 14:27
+429,01-06-2009 03:39,Product1,1200.0,Visa,Krista,9/20/05 1:58
+430,1/15/09 15:26,Product1,1200.0,Visa,Sarah,1/15/09 8:16
+431,1/23/09 4:47,Product1,1200.0,Mastercard,Sarah,1/16/06 8:48
+432,01-12-2009 10:05,Product2,3600.0,Amex,Pamela,09-03-2007 13:23
+433,1/30/09 5:13,Product1,1200.0,Visa,Christine,01-03-2006 13:57
+434,1/14/09 10:32,Product3,7500.0,Mastercard,Diana,11-05-2008 07:03
+435,01-12-2009 08:13,Product1,1200.0,Amex,mary,03-08-2006 04:32
+436,1/27/09 8:11,Product1,1200.0,Visa,Helena,1/27/09 8:05
+437,1/30/09 17:33,Product1,1200.0,Visa,nina,1/25/09 22:36
+438,1/15/09 9:52,Product1,1200.0,Amex,Mark,1/15/09 8:36
+439,1/13/09 11:54,Product1,1200.0,Visa,alice and rudolf,01-08-2009 11:11
+440,1/21/09 11:00,Product1,1200.0,Visa,Costanza,1/19/09 10:11
+441,1/16/09 11:49,Product1,1200.0,Mastercard,Yoko,2/18/08 18:56
+442,01-01-2009 09:35,Product1,1200.0,Mastercard,Barbara,12/31/08 17:51
+443,1/13/09 5:58,Product1,1200.0,Mastercard,Kit,01-05-2009 21:12
+444,01-06-2009 16:08,Product2,3600.0,Visa,cristina,3/14/05 16:39
+445,01-05-2009 10:25,Product1,1200.0,Amex,linda,10-11-2008 03:50
+446,01-04-2009 21:08,Product1,1200.0,Mastercard,Christyna,1/21/08 20:11
+447,01-12-2009 20:43,Product1,1200.0,Visa,Alicja ,01-12-2009 20:31
+448,1/17/09 3:22,Product1,1200.0,Visa,Rachel,02-01-2008 12:45
+449,1/18/09 11:17,Product1,1200.0,Amex,Rachel,03-11-2008 13:35
+450,1/27/09 9:01,Product1,1200.0,Visa,Jan,5/29/08 12:23
+451,01-08-2009 08:11,Product1,1200.0,Diners,Karin,01-08-2009 07:00
+452,1/26/09 23:28,Product2,3600.0,Amex,ron ,12-07-2006 08:26
+453,01-10-2009 21:35,Product1,1200.0,Mastercard,Sharon,08-07-2008 06:17
+454,01-11-2009 06:01,Product1,1200.0,Mastercard,Anna,01-01-2009 10:24
+455,1/19/09 14:53,Product1,1200.0,Mastercard,Laura,12-12-2008 05:18
+456,1/22/09 7:14,Product1,1200.0,Visa,Yana,10-11-2006 19:22
+457,1/15/09 8:12,Product1,1200.0,Visa,Katherine,1/13/09 10:03
+458,01-07-2009 06:33,Product1,1200.0,Diners,Therese,6/15/08 8:08
+459,01-12-2009 08:05,Product1,1200.0,Amex,Francoise ,01-12-2009 06:44
+460,1/28/09 13:03,Product2,3600.0,Amex,Elizabeth,09-10-2008 06:53
+461,1/25/09 8:54,Product1,1200.0,Amex,Corinne,3/26/06 17:32
+462,01-05-2009 10:08,Product1,1200.0,Visa,Ec,01-05-2009 07:47
+463,01-05-2009 19:29,Product1,1200.0,Visa,Carmen,4/29/08 16:09
+464,01-07-2009 19:06,Product2,3600.0,Amex,Brittany,08-10-2004 03:30
+465,1/23/09 11:33,Product1,1200.0,Mastercard,Sandrine,1/22/09 23:31
+466,01-03-2009 21:11,Product1,1200.0,Mastercard,asuncion ,12-03-2008 13:00
+467,01-11-2009 17:28,Product1,1200.0,Visa,Sophie,01-11-2009 11:50
+468,1/21/09 20:18,Product1,1200.0,Amex,Henrietta,07-06-2007 23:53
+469,1/24/09 10:23,Product1,1200.0,Visa,DD,8/19/08 12:58
+470,01-07-2009 14:55,Product1,1200.0,Visa,Jennifer,9/21/06 2:39
+471,1/29/09 10:38,Product1,1200.0,Visa,samuel,1/29/09 9:08
+472,01-08-2009 14:04,Product1,1200.0,Amex,Angelina  Patrick,01-07-2009 17:01
+473,1/31/09 21:50,Product1,1200.0,Visa,Sven,1/31/09 21:01
+474,01-01-2009 16:00,Product1,1200.0,Visa,Toni,10-07-2008 15:19
+475,1/30/09 13:13,Product1,1200.0,Visa,Patrick,1/30/09 12:44
+476,1/27/09 16:50,Product1,1200.0,Visa,jason,12/28/08 14:42
+477,1/30/09 7:42,Product1,250.0,Visa,Tabatha,12/28/08 14:42
+478,1/17/09 15:48,Product2,3600.0,Visa,Aline,01-08-2005 14:03
+479,01-12-2009 11:40,Product2,3600.0,Visa,Debra,12/30/08 6:59
+480,1/30/09 20:27,Product1,1200.0,Mastercard,Natasha,1/30/09 20:02
+481,1/27/09 18:35,Product1,1200.0,Mastercard,Melinda,1/27/09 18:28
+482,1/16/09 12:47,Product1,1200.0,Visa,Luc1nda,12-12-2004 15:18
+483,01-02-2009 02:50,Product1,1200.0,Visa,Kim,10-12-2005 06:56
+484,1/21/09 5:39,Product1,1200.0,Amex,Britlyn ,11-04-2008 09:51
+485,1/28/09 1:28,Product1,1200.0,Diners,Adam,1/26/09 2:28
+486,01-08-2009 13:33,Product1,1200.0,Visa,Mimi,9/23/06 13:19
+487,1/22/09 12:09,Product1,1200.0,Visa,Liann,1/22/09 11:32
+488,1/20/09 8:23,Product1,1200.0,Mastercard,Sarah,10-12-2005 17:17
+489,01-02-2009 07:47,Product1,1200.0,Diners,Naseer,12-08-2008 06:45
+490,01-11-2009 04:55,Product1,1200.0,Amex,Caroline,04-12-2006 18:20
+491,1/23/09 7:47,Product1,1800.0,Amex,Karena,04-12-2006 18:20
+492,1/21/09 23:19,Product1,1200.0,Amex,janet,09-04-2008 16:51
+493,01-11-2009 04:29,Product3,7500.0,Visa,Hans,8/28/08 6:20
+494,01-11-2009 04:39,Product1,1200.0,Visa,Sandra  Thierry  Zoe,8/28/08 6:20
+495,01-10-2009 08:13,Product1,1200.0,Mastercard,Eleanor,7/31/08 22:34
+496,1/22/09 12:55,Product1,1200.0,Visa,Anna,8/17/07 4:34
+497,1/17/09 15:00,Product1,1200.0,Visa,Cara ,03-12-2007 14:55
+498,01-04-2009 14:06,Product1,1200.0,Visa,carolien,01-04-2009 12:21
+499,1/30/09 17:09,Product1,1200.0,Mastercard,Ana,7/28/06 2:31
+500,1/20/09 5:01,Product1,1200.0,Visa,Patrick,1/18/09 17:36
+501,1/26/09 14:37,Product1,1200.0,Visa,Heidi,12/19/07 12:00
+502,1/29/09 13:27,Product1,1200.0,Visa,Tom,1/28/09 14:47
+503,01-12-2009 10:33,Product1,1200.0,Amex,Justine,01-07-2009 16:45
+504,01-05-2009 08:28,Product1,1200.0,Visa,isabel,01-05-2009 05:08
+505,1/25/09 16:11,Product3,7500.0,Visa,scott,1/25/09 15:55
+506,1/25/09 20:44,Product1,1200.0,Visa,Fatima,1/25/09 15:55
+507,1/26/09 11:36,Product1,1200.0,Visa,Judy,1/26/09 7:28
+508,1/27/09 2:32,Product1,1200.0,Visa,Glenn,6/27/06 9:12
+509,1/18/09 13:36,Product1,1200.0,Amex,Family in,4/23/05 9:46
+510,01-07-2009 05:53,Product1,1200.0,Visa,Lauren,01-07-2009 02:49
+511,1/25/09 1:53,Product3,7500.0,Visa,Michael,1/24/09 12:52
+512,1/18/09 11:42,Product1,1200.0,Visa,Jodi,11/17/08 10:30
+513,1/13/09 1:46,Product1,1200.0,Mastercard,simone,10/30/07 12:03
+514,01-02-2009 15:57,Product1,1200.0,Diners,Sonja,01-02-2009 15:25
+515,1/25/09 8:50,Product1,1200.0,Mastercard,Shane,1/24/09 12:23
+516,1/14/09 8:16,Product2,3600.0,Amex,Ruth,08-09-2008 12:51
+517,1/27/09 11:21,Product1,1200.0,Mastercard,Cleo,1/27/09 10:38
+518,01-08-2009 10:13,Product1,1200.0,Diners,Benoit,01-07-2009 16:01
+519,01-05-2009 07:47,Product1,1200.0,Amex,Claire,4/18/07 12:55
+520,1/22/09 9:00,Product1,1200.0,Visa,Claire,07-06-2008 14:33
+521,1/25/09 12:59,Product1,1200.0,Visa,Lindsey,1/13/09 20:08
+522,01-10-2009 19:28,Product2,3600.0,Visa,Nicola,08-05-2005 00:29
+523,01-08-2009 19:29,Product2,3600.0,Mastercard,PATRICK,01-08-2009 00:01
+524,01-08-2009 12:04,Product1,1200.0,Visa,jennifer,12-01-2003 19:13
+525,01-04-2009 16:59,Product1,1200.0,Visa,Amy,01-03-2009 22:35
+526,1/30/09 11:56,Product1,1200.0,Mastercard,Whitney,7/31/08 13:46
+527,01-06-2009 05:10,Product1,1200.0,Visa,Astrid,6/24/08 0:49
+528,1/14/09 3:39,Product1,1200.0,Visa,jo,12-10-2008 07:41
+529,1/14/09 3:47,Product1,1200.0,Visa,Michelle,12-10-2008 07:41
+530,1/19/09 3:19,Product1,1200.0,Mastercard,TG,11/20/08 3:00
+531,01-07-2009 01:42,Product1,1200.0,Mastercard,Emily,01-04-2009 10:33
+532,01-07-2009 13:01,Product2,3600.0,Visa,Niki,08-05-2007 00:43
+533,1/27/09 2:35,Product1,1200.0,Visa,Sarah,8/28/08 6:28
+534,01-03-2009 14:14,Product1,1200.0,Visa,sherry,01-03-2009 13:49
+535,1/22/09 12:37,Product2,3600.0,Amex,Laura,1/22/09 10:17
+536,1/29/09 6:49,Product1,1200.0,Mastercard,Carmela,04-02-2008 02:39
+537,01-06-2009 09:45,Product1,1200.0,Diners,Matt,12/30/08 13:01
+538,01-12-2009 11:16,Product1,1200.0,Visa,Karen,7/17/07 6:08
+539,1/13/09 13:49,Product1,1200.0,Visa,Joanne,01-06-2008 14:03
+540,01-12-2009 07:23,Product1,1200.0,Visa,Stephanie,01-11-2009 14:42
+541,1/30/09 4:48,Product1,1200.0,Visa,Hurst,6/18/08 14:29
+542,1/22/09 16:29,Product1,1200.0,Visa,Liza,1/17/09 15:18
+543,1/27/09 6:26,Product1,1200.0,Mastercard,Michele,1/25/09 11:56
+544,1/15/09 10:16,Product3,7500.0,Visa,Karin,01-12-2009 17:41
+545,1/19/09 18:54,Product1,1200.0,Amex,cath,1/19/09 11:34
+546,01-02-2009 22:44,Product2,3600.0,Visa,eva,12-03-2006 15:36
+547,01-01-2009 18:32,Product1,1200.0,Amex,Andrea ,12/31/08 17:09
+548,1/14/09 1:28,Product1,1200.0,Mastercard,Sabine,6/24/06 15:10
+549,1/20/09 8:08,Product1,1200.0,Mastercard,Aideen and Jonathan,1/19/09 5:49
+550,1/29/09 2:48,Product1,1200.0,Visa,George,1/29/09 2:19
+551,1/24/09 18:02,Product1,1200.0,Visa,Helen,11/29/05 17:33
+552,01-07-2009 08:26,Product1,1200.0,Diners,C,01-06-2009 16:23
+553,1/24/09 3:36,Product1,1200.0,Visa,chris,1/20/09 13:11
+554,01-05-2009 15:23,Product1,1200.0,Visa,maggie,06-12-2008 10:59
+555,1/25/09 16:17,Product1,1200.0,Amex,Mareike,1/24/09 18:06
+556,1/15/09 10:37,Product1,1200.0,Visa,lamia,6/28/08 11:04
+557,1/20/09 15:28,Product1,1200.0,Visa,Madhu,12-02-2006 23:24
+558,1/28/09 18:00,Product1,13000.0,Visa,sandhya,12-02-2006 23:24
+559,1/29/09 5:06,Product1,1200.0,Amex,Kimberly,1/23/08 10:05
+560,01-06-2009 18:53,Product1,1200.0,Visa,Tania,01-05-2009 22:37
+561,1/21/09 6:55,Product1,1200.0,Visa,andrea,1/20/09 13:33
+562,1/26/09 20:18,Product1,1200.0,Mastercard,John,1/15/07 20:37
+563,1/25/09 17:58,Product2,3600.0,Visa,carol,07-05-2008 09:20
+564,01-09-2009 14:37,Product1,1200.0,Visa,Nona,01-08-2009 15:14
+565,1/25/09 2:46,Product2,3600.0,Visa,Family,01-08-2009 01:19
+566,1/17/09 20:46,Product2,3600.0,Visa,Michelle,4/13/08 2:36
+567,1/24/09 7:18,Product2,3600.0,Visa,Kathryn,1/23/09 10:31
+568,01-11-2009 07:09,Product1,1200.0,Visa,Oswald,10/13/08 16:43
+569,01-08-2009 04:15,Product1,1200.0,Visa,Elyssa,01-07-2009 15:00
+570,1/22/09 10:47,Product1,1200.0,Visa,michelle,11/18/08 1:32
+571,1/26/09 20:47,Product1,1200.0,Mastercard,Alicia,6/24/08 8:05
+572,01-12-2009 12:22,Product1,1200.0,Mastercard,JP,01-06-2009 11:34
+573,1/26/09 1:44,Product2,3600.0,Visa,Geraldine,1/31/08 13:28
+574,1/18/09 12:57,Product1,1200.0,Mastercard,sandra,1/24/08 16:11
+575,1/24/09 21:26,Product1,1200.0,Visa,Olivia,05-08-2008 16:02
+576,1/26/09 12:26,Product2,3600.0,Mastercard,Tom,1/26/09 5:23
+577,01-05-2009 07:37,Product1,1200.0,Visa,Annette ,9/26/08 4:29
+578,1/14/09 12:33,Product1,1200.0,Visa,SUSAN,09-11-2008 23:23
+579,1/14/09 0:15,Product2,3600.0,Visa,Michael,11/28/08 0:07
+580,01-01-2009 12:42,Product1,1200.0,Visa,ashton,12/15/08 1:16
+581,01-06-2009 06:07,Product1,1200.0,Visa,Scott,12/27/08 14:29
+582,1/15/09 5:11,Product2,3600.0,Visa,Pam,07-11-2006 12:43
+583,1/17/09 4:03,Product1,1200.0,Visa,Lisa ,1/17/09 2:45
+584,1/19/09 10:13,Product2,3600.0,Mastercard,Pavel,2/28/06 5:35
+585,1/18/09 9:42,Product1,1200.0,Visa,Richard,1/18/09 9:22
+586,01-09-2009 11:14,Product1,1200.0,Visa,Jasinta Jeanne,01-09-2009 10:43
+587,01-10-2009 13:42,Product1,1200.0,Visa,Rachel,01-10-2009 12:22
+588,01-07-2009 07:28,Product1,1200.0,Amex,Cherish ,7/28/08 7:31
+589,1/18/09 6:46,Product1,1200.0,Visa,Shona ,1/15/09 9:13
+590,1/30/09 12:18,Product1,1200.0,Mastercard,Abikay,1/26/09 13:34
+591,01-06-2009 05:42,Product1,1200.0,Amex,Abikay,10/27/08 14:16
+592,01-02-2009 10:58,Product2,3600.0,Visa,Kendra,01-02-2009 10:38
+593,01-08-2009 03:29,Product1,1200.0,Visa,amanda,12/22/08 1:41
+594,01-12-2009 13:23,Product2,3600.0,Amex,Leila,9/13/05 8:42
+595,1/19/09 9:34,Product1,1200.0,Amex,amanda,05-10-2008 08:56
+596,01-09-2009 07:49,Product1,1200.0,Visa,Stacy,7/28/08 7:18
+597,1/15/09 5:27,Product2,3600.0,Visa,Derrick,01-06-2009 17:42
+598,01-08-2009 23:40,Product1,1200.0,Visa,Jacob,01-08-2009 17:52
+599,1/27/09 11:02,Product1,1200.0,Mastercard,DOREEN,1/24/09 8:21
+600,1/14/09 13:23,Product1,1200.0,Diners,eugenia,11/15/08 13:57
+601,01-07-2009 20:01,Product1,1200.0,Visa,Karen,01-06-2009 19:16
+602,1/20/09 12:32,Product1,1200.0,Visa,Bea,1/16/09 19:08
+603,01-06-2009 14:35,Product1,1200.0,Diners,Hilde Karin,12/17/08 11:59
+604,01-04-2009 06:51,Product1,1200.0,Visa,Rima,01-03-2009 12:34
+605,1/24/09 18:30,Product1,1200.0,Visa,Ruangrote,7/17/08 5:19
+606,1/25/09 5:57,Product1,1200.0,Amex,pamela,1/24/09 9:29
+607,01-05-2009 10:02,Product2,3600.0,Visa,Emillie,01-05-2009 09:03
+608,1/13/09 9:14,Product1,1200.0,Visa,sangeeta,01-09-2009 09:31
+609,1/22/09 7:35,Product1,1200.0,Visa,Anja,1/22/09 6:51
+610,01-02-2009 11:06,Product1,1200.0,Mastercard,Andrew,03-12-2006 15:02
+611,01-11-2009 09:50,Product1,1200.0,Visa,Bato,01-07-2009 11:45
+612,1/21/09 20:44,Product1,1200.0,Mastercard,Ailsa ,1/21/09 7:47
+613,01-05-2009 09:09,Product1,1200.0,Visa,Sophie,10/23/06 6:52
+614,01-05-2009 12:41,Product1,1200.0,Visa,Katrin,12-03-2008 14:49
+615,1/28/09 12:54,Product2,3600.0,Mastercard,Kelly ,1/27/09 21:04
+616,1/21/09 4:46,Product1,1200.0,Visa,Tomasz,06-10-2008 11:25
+617,01-07-2009 13:28,Product1,1200.0,Visa,Elizabeth,01-04-2009 13:07
+618,1/27/09 11:18,Product2,3600.0,Amex,Michael,1/23/09 11:47
+619,01-07-2009 12:39,Product2,3600.0,Visa,Natasha,06-02-2006 13:01
+620,1/24/09 13:54,Product2,3600.0,Mastercard,Meredith,1/24/09 12:30
+621,1/30/09 6:48,Product1,1200.0,Mastercard,Nicole,1/30/09 4:51
+622,1/22/09 18:07,Product1,1200.0,Visa,Ryan,01-06-2009 16:59
+623,1/29/09 15:03,Product1,1200.0,Visa,Mary ,02-09-2006 11:14
+624,01-02-2009 14:14,Product1,1200.0,Diners,Aaron,11/16/08 15:49
+625,1/19/09 11:05,Product1,1200.0,Visa,Bertrand,10-03-2008 05:55
+626,1/28/09 16:17,Product1,1200.0,Mastercard,Zoe,1/28/09 15:59
+627,01-08-2009 12:46,Product1,1200.0,Mastercard,Trine Marie,12/16/08 22:57
+628,1/29/09 16:07,Product1,1200.0,Diners,Kim,1/29/09 15:45
+629,1/29/09 13:41,Product1,1200.0,Visa,John ,1/14/04 21:59
+630,01-08-2009 06:29,Product1,1200.0,Visa,Rich,3/24/06 6:21
+631,01-04-2009 12:53,Product1,1200.0,Diners,Kayla,12-11-2008 07:35
+632,1/14/09 12:55,Product1,1200.0,Visa,Richard and Comfort,01-11-2009 10:36
+633,1/14/09 6:35,Product1,1200.0,Visa,Eric,7/25/08 7:02
+634,1/27/09 13:08,Product1,1200.0,Mastercard,Melissa,05-09-2008 08:50
+635,1/31/09 23:09,Product1,1200.0,Diners,Dawn,9/13/04 22:55
+636,1/21/09 14:34,Product1,1200.0,Mastercard,Tamara,1/21/09 14:12
+637,1/16/09 8:28,Product1,1200.0,Visa,Ashley,01-09-2009 12:13
+638,01-11-2009 09:55,Product1,1200.0,Visa,familly ,01-10-2009 07:14
+639,01-08-2009 02:46,Product1,1200.0,Mastercard,Ken,11/26/07 16:44
+640,1/26/09 7:11,Product1,1200.0,Visa,Tori,11/22/08 21:06
+641,1/31/09 5:39,Product2,3600.0,Mastercard,Hanne,10-05-2004 04:37
+642,01-09-2009 08:35,Product1,1200.0,Amex,Precious,01-08-2009 14:14
+643,1/24/09 3:25,Product1,1200.0,Visa,Michelle,9/26/08 19:23
+644,1/26/09 8:45,Product1,1200.0,Visa,Paula,2/15/06 17:21
+645,1/23/09 10:45,Product1,1200.0,Visa,Stephanie,1/23/09 8:46
+646,1/28/09 8:50,Product1,1200.0,Visa,kemp,1/28/09 8:42
+647,1/15/09 19:10,Product2,3600.0,Diners,Therese,12/29/05 21:33
+648,01-09-2009 20:25,Product1,1200.0,Diners,Mona,01-09-2009 14:20
+649,1/15/09 21:53,Product1,1200.0,Visa,Caroline,01-01-2009 18:01
+650,01-12-2009 00:17,Product1,1200.0,Mastercard,Andrea,01-07-2009 23:40
+651,1/25/09 10:32,Product1,1200.0,Mastercard,Pilar,1/23/09 4:46
+652,01-12-2009 23:35,Product1,1200.0,Visa,Lisa,05-08-2006 23:41
+653,01-11-2009 06:09,Product1,1200.0,Amex,A,11-08-2008 04:07
+654,01-03-2009 13:35,Product1,1200.0,Mastercard,Yvette,8/15/08 4:02
+655,1/18/09 11:03,Product2,3600.0,Amex,Katie,1/18/09 6:16
+656,01-05-2009 18:55,Product1,1200.0,Visa,Nicole,04-03-2008 16:57
+657,01-02-2009 18:54,Product1,1200.0,Mastercard,Kelly,12-07-2008 04:51
+658,1/13/09 14:44,Product2,3600.0,Visa,george,12/14/08 10:19
+659,01-04-2009 04:05,Product1,1200.0,Mastercard,Samantha,12/31/08 8:33
+660,1/27/09 12:47,Product1,1200.0,Visa,Caterina,1/27/09 12:03
+661,1/22/09 6:51,Product1,1200.0,Visa,Kate,1/22/09 5:54
+662,01-01-2009 21:40,Product1,1200.0,Mastercard,Tina,10/20/08 18:27
+663,1/27/09 18:06,Product1,1200.0,Visa,Emily,1/13/09 18:22
+664,01-10-2009 14:59,Product1,1200.0,Amex,Maricel,01-10-2009 14:47
+665,1/26/09 15:42,Product1,1200.0,Visa,Patricia,1/26/09 14:38
+666,01-12-2009 14:37,Product1,1200.0,Mastercard,steve,01-12-2009 07:47
+667,1/16/09 7:58,Product1,1200.0,Amex,Darrah,9/30/07 4:03
+668,1/22/09 14:32,Product1,1200.0,Visa,Sara,09-05-2008 07:18
+669,1/19/09 6:50,Product1,1200.0,Visa,Erika,01-06-2009 13:29
+670,1/24/09 11:54,Product1,1200.0,Visa,Audrey,1/24/09 10:47
+671,1/13/09 13:36,Product1,1200.0,Visa,Louise,5/16/06 9:10
+672,1/13/09 11:56,Product1,1200.0,Diners,Karen,10/31/08 12:37
+673,1/19/09 7:49,Product1,1200.0,Amex,Maki,1/18/09 15:26
+674,01-10-2009 07:37,Product1,1200.0,Visa,Peter,10-11-2008 03:19
+675,1/20/09 5:53,Product1,1200.0,Diners,Ashlee,1/14/09 4:35
+676,01-06-2009 10:34,Product1,1200.0,Mastercard,Anja,01-06-2009 10:03
+677,1/23/09 5:14,Product1,1200.0,Visa,Ellen Walton ,12/16/07 17:05
+678,1/14/09 16:02,Product1,1200.0,Mastercard,Jessica,1/14/09 14:53
+679,1/14/09 18:05,Product1,1200.0,Visa,Wouter and Andrea,01-10-2009 03:19
+680,01-08-2009 20:52,Product1,1200.0,Visa,Pam and Rob,11/18/08 20:03
+681,01-07-2009 13:57,Product1,1200.0,Visa,Elsa,01-07-2009 13:32
+682,1/25/09 10:34,Product1,1200.0,Amex,kathleen kane,1/19/09 19:01
+683,1/28/09 4:35,Product1,1200.0,Diners,Selene,04-05-2005 05:30
+684,1/19/09 3:25,Product1,1200.0,Visa,Christy,01-10-2006 04:49
+685,1/18/09 0:41,Product2,3600.0,Visa,Hanna Agla,9/21/06 23:27
+686,1/27/09 2:38,Product1,1200.0,Visa,Elyse,11/30/07 9:25
+687,1/16/09 6:04,Product1,1200.0,Mastercard,Alexis,1/15/09 2:56
+688,01-05-2009 05:30,Product1,1200.0,Visa,M George,01-05-2009 04:11
+689,01-09-2009 14:55,Product1,1200.0,Visa,John,01-08-2009 16:23
+690,1/29/09 10:07,Product1,1200.0,Visa,cheryl,1/27/09 8:42
+691,1/27/09 3:55,Product1,1200.0,Amex,R,9/13/06 10:09
+692,1/25/09 12:35,Product2,3600.0,Visa,Charlene ,1/25/09 10:42
+693,01-03-2009 16:56,Product1,1200.0,Visa,Cindy,3/13/04 14:09
+694,01-12-2009 12:04,Product1,1200.0,Visa,Ed,12-05-2007 12:48
+695,1/27/09 3:19,Product1,1200.0,Mastercard,Astrid,1/27/09 1:01
+696,1/24/09 9:30,Product1,1200.0,Visa,Nicole,1/24/09 5:24
+697,1/25/09 18:33,Product1,1200.0,Visa,Maria Macarena,1/23/09 9:35
+698,1/15/09 11:43,Product1,1200.0,Visa,Maggie,10/24/08 19:02
+699,1/23/09 16:30,Product2,3600.0,Amex,Christophe,01-09-2009 15:59
+700,01-05-2009 12:57,Product1,1200.0,Diners,Manoj,01-05-2009 09:32
+701,1/29/09 16:52,Product1,1200.0,Visa,Brenda,1/25/09 12:00
+702,01-10-2009 00:04,Product1,1200.0,Mastercard,Lizelle ,01-09-2009 23:37
+703,01-03-2009 14:17,Product2,3600.0,Visa,Kees en Valesca,01-03-2009 13:53
+704,1/15/09 9:00,Product1,1200.0,Visa,Cormac,1/15/09 8:10
+705,1/24/09 20:58,Product1,1200.0,Visa,jacqueline,12/28/08 15:54
+706,01-10-2009 11:53,Product1,1200.0,Visa,Martin,1/17/08 8:20
+707,01-04-2009 17:34,Product1,1200.0,Mastercard,Dean,10/20/07 19:09
+708,1/28/09 0:22,Product1,1200.0,Visa,VERBENA,9/27/08 0:24
+709,1/17/09 1:49,Product1,1200.0,Mastercard,Angel Marie,1/13/09 5:09
+710,1/25/09 17:48,Product1,1200.0,Visa,olla,1/24/09 23:48
+711,1/22/09 5:39,Product2,3600.0,Visa,Eman,1/14/09 13:33
+712,1/19/09 15:40,Product2,3600.0,Visa,Julia,1/19/09 14:32
+713,1/21/09 23:52,Product1,1200.0,Visa,Sarah,11/23/08 4:51
+714,1/19/09 13:15,Product1,1200.0,Visa,Esther,5/29/07 1:32
+715,1/16/09 7:35,Product1,1200.0,Diners,amy,10-06-2006 02:02
+716,1/22/09 9:48,Product2,3600.0,Mastercard,Jyoti,01-08-2008 14:37
+717,1/18/09 12:05,Product2,3600.0,Visa,Keri,01-05-2009 19:24
+718,01-04-2009 10:44,Product1,1200.0,Diners,Paul,11/26/08 20:16
+719,1/20/09 14:55,Product1,1200.0,Mastercard,Attie,9/27/08 7:22
+720,01-02-2009 18:41,Product1,1200.0,Visa,odile,02-01-2006 08:47
+721,01-02-2009 07:03,Product1,1200.0,Visa,gail ,5/24/08 11:10
+722,1/21/09 7:19,Product1,1200.0,Visa,Niki,03-05-2008 11:25
+723,01-11-2009 17:52,Product2,3600.0,Visa,Danny,9/17/03 11:57
+724,1/16/09 17:56,Product1,1200.0,Mastercard,Sarah,1/16/09 12:57
+725,01-09-2009 20:00,Product1,1200.0,Visa,Beckie ,01-06-2009 13:50
+726,1/13/09 2:47,Product1,1200.0,Visa,Maryse,1/13/09 2:35
+727,1/19/09 4:23,Product2,3600.0,Mastercard,don,1/13/08 11:41
+728,1/13/09 12:51,Product1,1200.0,Visa,Majken,5/27/08 18:51
+729,1/29/09 7:40,Product1,1200.0,Amex,Karen and Andrew,7/29/03 9:23
+730,1/21/09 4:34,Product1,1200.0,Visa,Katerina,4/24/08 0:57
+731,01-07-2009 13:28,Product1,1200.0,Mastercard,Mary,9/21/05 15:42
+732,1/26/09 16:47,Product1,1200.0,Visa,Oscar,1/26/09 4:53
+733,1/29/09 1:01,Product1,1200.0,Diners,Suejean,1/20/09 6:14
+734,1/25/09 12:55,Product1,1200.0,Amex,ann,12-06-2008 15:26
+735,1/24/09 13:35,Product1,1200.0,Visa,Renee,05-11-2006 13:27
+736,1/28/09 13:30,Product1,1200.0,Visa,Catherine,1/28/09 13:03
+737,1/20/09 19:08,Product1,1200.0,Amex,Rhonda,11/21/08 5:52
+738,1/29/09 17:13,Product1,1200.0,Amex,alix,12-12-2007 12:26
+739,01-02-2009 05:33,Product1,1200.0,Visa,Mike,10/18/04 4:53
+740,1/31/09 11:03,Product1,1200.0,Visa,Diane,1/25/09 3:48
+741,1/13/09 9:16,Product1,1200.0,Visa,Sigrun,01-12-2009 20:48
+742,1/19/09 12:38,Product1,1200.0,Visa,Dania,1/19/09 11:47
+743,1/18/09 12:14,Product2,3600.0,Mastercard,Kelsi,12-12-2008 03:30
+744,1/22/09 10:59,Product1,1200.0,Visa,Maria,01-02-2009 14:09
+745,1/14/09 7:30,Product1,1200.0,Visa,Bent Erik,02-03-2008 02:56
+746,1/19/09 1:52,Product1,1200.0,Amex,Kirsten,4/24/07 4:36
+747,01-08-2009 23:00,Product1,1200.0,Visa,Dickson,9/16/08 2:07
+748,1/25/09 7:29,Product1,1200.0,Diners,Howard,1/22/09 14:02
+749,1/17/09 15:19,Product1,1200.0,Visa,Dana,1/15/09 9:13
+750,1/23/09 12:23,Product1,1200.0,Mastercard,Nola,1/23/09 11:11
+751,1/24/09 8:45,Product1,1200.0,Visa,Elizabeth,11-08-2008 14:45
+752,1/27/09 3:45,Product2,3600.0,Visa,minjeong,1/27/09 2:39
+753,1/29/09 23:48,Product1,1200.0,Visa,Matt,11/15/08 6:49
+754,01-03-2009 18:43,Product1,1200.0,Visa,Vanessa,07-03-2006 08:36
+755,1/24/09 17:18,Product2,3600.0,Visa,Charlotte,2/15/08 15:34
+756,01-02-2009 15:13,Product1,1200.0,Visa,Rowena,01-10-2006 07:05
+757,01-08-2009 10:44,Product1,1200.0,Visa,Catherine,01-06-2009 13:03
+758,1/29/09 8:13,Product1,1200.0,Mastercard,Sarah,1/28/08 13:55
+759,1/24/09 10:26,Product1,1200.0,Visa,sorcha,1/24/09 4:47
+760,1/24/09 12:56,Product1,1200.0,Visa,sorcha,01-12-2009 21:34
+761,01-07-2009 13:38,Product1,1200.0,Mastercard,Mary,01-06-2009 13:40
+762,1/23/09 15:38,Product1,1200.0,Visa,Ronja,1/17/09 15:05
+763,1/26/09 14:43,Product1,1200.0,Visa,Nicola ,1/26/09 13:55
+764,1/17/09 20:33,Product1,1200.0,Amex,BURCAK,01-09-2009 11:26
+765,01-05-2009 09:15,Product1,1200.0,Visa,isabelle,8/21/08 9:43
+766,1/20/09 8:16,Product1,1200.0,Mastercard,christy,01-06-2009 08:33
+767,1/29/09 12:46,Product1,1200.0,Visa,Lilly,1/19/09 16:00
+768,1/15/09 18:12,Product1,1200.0,Diners,Mandy,1/29/07 13:21
+769,1/23/09 13:55,Product1,1200.0,Mastercard,Elena,08-07-2005 15:07
+770,1/26/09 10:26,Product1,1200.0,Visa,Lolarae,1/26/09 10:16
+771,01-12-2009 11:48,Product1,1200.0,Mastercard,Lisa,07-05-2007 14:58
+772,1/29/09 15:20,Product1,1200.0,Mastercard,Nita and Trebor,1/18/09 20:47
+773,1/28/09 7:26,Product1,1200.0,Visa,Jenevieve,1/23/09 19:04
+774,1/14/09 0:03,Product2,3600.0,Mastercard,Piret,6/16/08 18:22
+775,1/13/09 1:55,Product1,1200.0,Mastercard,Damian,04-01-2006 22:29
+776,01-12-2009 23:21,Product1,1200.0,Mastercard,Lusell,01-06-2009 02:47
+777,1/22/09 2:16,Product1,1200.0,Visa,Costanza,09-07-2008 11:43
+778,1/29/09 12:53,Product1,1200.0,Visa,Vanessa,1/29/09 10:10
+779,1/28/09 11:36,Product1,1200.0,Diners,Evelyn,1/28/09 11:08
+780,1/19/09 6:50,Product1,1200.0,Amex,Nicola,7/13/08 11:29
+781,1/30/09 5:20,Product1,1200.0,Visa,Simone,1/30/09 4:06
+782,1/19/09 14:06,Product1,1200.0,Mastercard,Elisabeth,1/19/09 12:41
+783,01-08-2009 09:43,Product1,1200.0,Visa,Kasey,01-05-2009 09:05
+784,1/23/09 9:09,Product2,3600.0,Amex,Olympe,1/18/06 11:49
+785,1/20/09 8:58,Product1,1200.0,Visa,James,12/24/08 17:51
+786,01-02-2009 13:35,Product1,1200.0,Visa,Alyssa,7/29/08 12:32
+787,01-09-2009 15:03,Product1,1200.0,Visa,Reto,01-08-2009 18:59
+788,1/23/09 7:04,Product1,1200.0,Amex,Joelle,1/20/09 10:46
+789,1/17/09 10:14,Product1,1200.0,Mastercard,Nicole,1/17/09 7:46
+790,1/19/09 16:16,Product1,1200.0,Mastercard,Alexandria,09-03-2008 19:26
+791,1/20/09 13:54,Product1,1200.0,Mastercard,Elisabeth,12/20/05 23:05
+792,1/23/09 21:35,Product1,1200.0,Visa,Ann,4/21/07 19:33
+793,1/21/09 23:41,Product1,1200.0,Visa,Olga,02-04-2008 04:45
+794,1/21/09 4:11,Product1,1200.0,Visa,Courtney,9/30/08 10:39
+795,01-10-2009 03:43,Product1,1200.0,Visa,stacy,03-05-2006 15:01
+796,1/15/09 18:08,Product2,3600.0,Amex,Monica,01-12-2009 17:16
+797,1/20/09 14:48,Product2,3600.0,Visa,Michael,12/21/08 11:49
+798,1/21/09 11:56,Product1,1200.0,Visa,Katrin,3/21/06 13:30
+799,1/30/09 6:18,Product2,3600.0,Mastercard,Louise,1/14/06 2:40
+800,01-12-2009 17:28,Product1,1200.0,Amex,Alfredo A,12-03-2008 14:12
+801,1/29/09 8:27,Product2,3600.0,Visa,Kerry,1/27/09 8:53
+802,1/24/09 12:43,Product1,1200.0,Visa,Saeko ,02-02-2008 16:37
+803,01-07-2009 10:49,Product2,3600.0,Visa,VIOLETA,09-01-2008 13:09
+804,01-11-2009 17:06,Product1,1200.0,Visa,Antje,9/17/08 15:12
+805,1/30/09 6:17,Product1,1200.0,Visa,janet,1/30/09 3:02
+806,01-07-2009 10:52,Product1,1200.0,Visa,claire ,01-07-2009 09:42
+807,1/27/09 6:20,Product1,1200.0,Mastercard,Nathalie,06-01-2006 12:04
+808,1/21/09 20:02,Product1,1200.0,Mastercard,Daria,01-10-2009 16:09
+809,01-04-2009 16:23,Product1,1200.0,Visa,Judith L.,01-04-2009 16:04
+810,01-06-2009 12:26,Product1,1200.0,Visa,Audinet,01-06-2009 08:40
+811,01-11-2009 04:34,Product1,1200.0,Visa,William,4/26/06 10:12
+812,1/17/09 6:39,Product1,1200.0,Diners,Tatjana and Martin,01-12-2008 07:00
+813,01-04-2009 03:41,Product1,1200.0,Mastercard,Scott,01-04-2005 12:43
+814,01-12-2009 05:50,Product3,7500.0,Mastercard,Brona,01-04-2005 12:43
+815,01-03-2009 13:43,Product1,1200.0,Mastercard,Andree,10/22/06 14:59
+816,01-11-2009 06:51,Product1,1200.0,Visa,Aziz,01-11-2009 00:00
+817,1/17/09 6:23,Product1,1200.0,Visa,Fernando,9/22/08 10:48
+818,1/26/09 18:38,Product1,1200.0,Visa,Jo,10/26/08 4:24
+819,1/31/09 13:26,Product1,1200.0,Visa,Joern,12/13/08 18:12
+820,1/21/09 2:20,Product2,3600.0,Visa,Melissa,1/16/09 7:06
+821,1/18/09 13:25,Product1,1200.0,Visa,Melissa,1/15/09 11:57
+822,1/18/09 18:57,Product1,1200.0,Mastercard,isabela,12/31/08 8:16
+823,1/31/09 1:59,Product1,1200.0,Visa,Nacole,04-11-2005 02:40
+824,1/25/09 16:08,Product1,1200.0,Diners,Jennifer,1/24/09 20:12
+825,1/16/09 19:13,Product1,1200.0,Diners,Mary,12/26/08 9:28
+826,1/31/09 15:25,Product1,1200.0,Visa,Lisa,1/28/09 9:54
+827,01-09-2009 08:57,Product1,1200.0,Diners,Debora ,1/21/08 10:27
+828,01-04-2009 22:18,Product2,3600.0,Mastercard,Karoline ,11/27/08 16:06
+829,01-10-2009 15:18,Product2,3600.0,Mastercard,Jo ,10/17/07 14:56
+830,1/16/09 19:47,Product1,1200.0,Amex,Kristen,1/13/09 20:49
+831,1/25/09 8:16,Product2,3600.0,Visa,Astrid,4/22/07 2:19
+832,1/25/09 8:48,Product1,1200.0,Mastercard,Malinda,04-05-2008 13:20
+833,1/17/09 9:12,Product1,1200.0,Amex,Sylvia,12/26/06 14:23
+834,1/24/09 1:22,Product1,1200.0,Visa,Jupiterlina Elika,10/19/04 2:38
+835,1/27/09 15:09,Product1,1200.0,Visa,Aniko,1/15/09 12:50
+836,1/25/09 21:49,Product1,1200.0,Mastercard,Petra,1/24/09 1:35
+837,1/24/09 8:51,Product1,1200.0,Mastercard,Heather,1/19/09 11:08
+838,01-06-2009 14:08,Product1,1200.0,Mastercard,Kim,12/18/08 7:04
+839,1/17/09 14:06,Product1,1200.0,Amex,Ruby,11/28/04 18:58
+840,1/21/09 12:38,Product1,1200.0,Visa,Novy ,02-05-2007 12:43
+841,1/30/09 23:49,Product2,3600.0,Visa,Stephanie,11/30/08 11:54
+842,01-12-2009 12:00,Product1,1200.0,Mastercard,Tammy,07-06-2008 08:49
+843,1/29/09 21:40,Product1,1200.0,Visa,Alessandra,6/17/08 19:23
+844,1/24/09 13:38,Product1,1200.0,Mastercard,Cathy,12/22/08 3:57
+845,1/25/09 13:50,Product2,3600.0,Visa,Scott,1/25/09 10:09
+846,01-12-2009 13:41,Product1,1200.0,Amex,dia,8/19/07 15:23
+847,01-05-2009 11:44,Product1,1200.0,Visa,Lauren,11/19/08 3:55
+848,01-02-2009 08:31,Product1,1200.0,Visa,Line,10/23/08 8:15
+849,1/31/09 7:13,Product1,1200.0,Amex,Sean,01-03-2008 14:59
+850,1/20/09 2:17,Product1,1200.0,Diners,Sarah,11-09-2008 01:26
+851,1/25/09 20:15,Product1,1200.0,Visa,Brian,1/23/09 22:33
+852,1/25/09 19:44,Product1,1200.0,Mastercard,Lesa,01-06-2005 21:17
+853,1/30/09 9:00,Product1,1200.0,Mastercard,james,07-04-2007 21:35
+854,01-07-2009 19:18,Product1,1200.0,Mastercard,loudon,11-02-2007 20:26
+855,01-04-2009 10:18,Product1,1200.0,Mastercard,Allison,11-08-2008 09:42
+856,1/23/09 14:57,Product1,1200.0,Mastercard,Surat,7/29/08 12:00
+857,01-12-2009 10:08,Product2,3600.0,Mastercard,Judy,5/31/08 12:03
+858,1/19/09 4:22,Product1,1200.0,Diners,brian,5/21/07 7:22
+859,1/21/09 21:37,Product1,1200.0,Visa,Rachel,1/21/09 6:24
+860,1/25/09 4:34,Product1,1200.0,Mastercard,Hilde,01-08-2009 05:16
+861,1/30/09 1:09,Product1,1200.0,Mastercard,Tarja,11/30/08 4:39
+862,1/26/09 15:16,Product1,1200.0,Visa,Megan,12/22/08 20:09
+863,1/15/09 15:56,Product2,3600.0,Visa,Charmain,01-02-2008 10:51
+864,01-02-2009 20:47,Product1,1200.0,Visa,Katharina,9/23/08 20:57
+865,1/25/09 9:36,Product1,1200.0,Visa,Zaneta ,1/24/09 10:36
+866,1/20/09 20:09,Product1,1200.0,Visa,Jeannette,1/18/09 9:58
+867,01-08-2009 11:14,Product2,3600.0,Visa,Liz,01-07-2009 10:25
+868,01-06-2009 20:39,Product2,3600.0,Mastercard,Christiane,01-06-2009 09:44
+869,01-06-2009 18:10,Product1,1200.0,Visa,Cherie,12/22/08 14:12
+870,01-11-2009 06:46,Product2,3600.0,Visa,Shiree,8/25/07 5:48
+871,1/19/09 14:26,Product1,1200.0,Mastercard,Tracey,01-06-2009 13:24
+872,1/31/09 6:14,Product1,1200.0,Diners,Scott ,6/27/08 4:15
+873,01-06-2009 09:31,Product1,1200.0,Visa,Frances,01-04-2009 03:18
+874,1/21/09 7:31,Product1,1200.0,Mastercard,Beatrice,3/25/08 13:23
+875,1/20/09 17:23,Product2,3600.0,Visa,Jessica,1/20/08 18:01
+876,1/29/09 12:10,Product1,1200.0,Amex,Alison,11-01-2007 21:25
+877,1/24/09 23:21,Product1,1200.0,Visa,elaine,1/24/09 22:47
+878,1/28/09 10:37,Product1,1200.0,Visa,Chevonne,05-08-2008 04:26
+879,1/30/09 14:36,Product1,1200.0,Visa,danielle,1/30/09 13:50
+880,1/21/09 2:07,Product1,1200.0,Mastercard,Caroline and Jonathan,2/14/06 14:43
+881,1/26/09 6:37,Product1,1200.0,Visa,manuela,06-04-2008 11:55
+882,01-04-2009 14:27,Product1,1200.0,Visa,Carole,12/14/05 10:47
+883,01-09-2009 03:03,Product2,3600.0,Amex,Ghislaine,3/28/08 5:53
+884,01-08-2009 19:26,Product2,3600.0,Visa,Christian,11/30/07 10:44
+885,01-10-2009 16:02,Product1,1200.0,Visa,Hollie,10-12-2007 13:03
+886,01-06-2009 06:31,Product1,1200.0,Visa,mike,01-03-2009 05:24
+887,1/23/09 13:13,Product1,1200.0,Mastercard,Malahat,04-03-2007 12:56
+888,1/18/09 17:55,Product1,1200.0,Amex,Michaela,03-09-2008 09:39
+889,01-05-2009 15:15,Product1,1200.0,Amex,Amy,8/18/05 2:04
+890,01-02-2009 10:32,Product1,1200.0,Mastercard,Brandi,12/24/08 15:23
+891,1/25/09 9:27,Product1,1200.0,Visa,erin,09-04-2006 14:35
+892,01-05-2009 06:12,Product1,1200.0,Diners,Tracy,01-04-2009 06:19
+893,01-06-2009 02:41,Product1,1200.0,Visa,Polyxene,11/20/05 23:46
+894,1/27/09 14:42,Product2,3600.0,Mastercard,Jean,01-08-2009 11:01
+895,01-08-2009 12:03,Product1,1200.0,Diners,Andrea,8/13/08 15:58
+896,1/29/09 12:16,Product1,1200.0,Mastercard,Jessica,1/27/09 15:56
+897,1/19/09 10:47,Product1,1200.0,Mastercard,David,1/13/09 13:53
+898,01-08-2009 02:49,Product2,3600.0,Mastercard,Caroline,01-07-2009 04:14
+899,1/19/09 17:40,Product1,1200.0,Visa,Riche Lou,03-12-2007 07:21
+900,01-11-2009 00:15,Product1,1200.0,Mastercard,Chris,05-07-2007 04:07
+901,1/16/09 5:12,Product2,3600.0,Visa,Karen,10/19/07 12:31
+902,1/19/09 6:52,Product1,1200.0,Diners,melanie,1/19/09 6:45
+903,1/26/09 1:14,Product1,1200.0,Visa,beatrice,1/23/09 1:57
+904,1/30/09 10:31,Product1,1200.0,Mastercard,lorna,10-06-2008 16:31
+905,1/23/09 5:52,Product1,1200.0,Amex,Tary,1/23/09 1:22
+906,01-07-2009 09:54,Product1,1200.0,Visa,Julie ,01-07-2009 09:17
+907,01-01-2009 16:44,Product1,1200.0,Amex,Julie ,09-12-2008 10:36
+908,1/23/09 9:27,Product1,1200.0,Mastercard,Jerome,2/19/08 2:01
+909,1/22/09 12:56,Product1,1200.0,Visa,Laleh,1/20/09 13:13
+910,1/16/09 13:35,Product1,1200.0,Visa,Michael,1/16/09 12:43
+911,1/13/09 9:26,Product1,1200.0,Visa,Kerry,1/24/06 13:15
+912,1/25/09 11:35,Product3,7500.0,Mastercard,Anita,1/24/09 9:24
+913,1/26/09 14:02,Product1,1200.0,Mastercard,Veronique,1/24/09 9:24
+914,01-07-2009 13:26,Product1,1200.0,Visa,Sarah,7/27/03 13:18
+915,1/15/09 11:45,Product1,1200.0,Diners,Simone,09-04-2008 03:01
+916,1/27/09 12:02,Product1,1200.0,Visa,Jackie,03-10-2008 13:51
+917,1/28/09 14:09,Product1,1200.0,Visa,giovanna,1/28/09 13:40
+918,1/23/09 7:13,Product1,1200.0,Visa,Elizabeth,1/19/09 6:03
+919,1/22/09 15:59,Product2,3600.0,Visa,Lisa,1/21/09 9:28
+920,1/16/09 10:27,Product1,1200.0,Mastercard,Maki,1/15/09 8:52
+921,1/26/09 22:45,Product1,1200.0,Amex,Anjan,5/15/08 19:33
+922,1/25/09 18:33,Product1,1200.0,Mastercard,Sarah,1/25/09 15:56
+923,1/16/09 6:13,Product1,1200.0,Mastercard,Niamh,1/16/09 5:22
+924,01-12-2009 17:19,Product2,3600.0,Diners,elizabeth r,01-12-2009 16:18
+925,01-02-2009 04:21,Product1,1200.0,Visa,Elaine,7/30/07 11:42
+926,01-05-2009 03:03,Product1,1200.0,Diners,Elizabeth,5/21/08 7:50
+927,1/15/09 15:22,Product1,1200.0,Visa,Sara,01-06-2009 18:19
+928,1/26/09 5:38,Product2,3600.0,Amex,Tulin,9/28/08 19:40
+929,1/24/09 10:38,Product1,1200.0,Visa,Kenneth,1/24/09 9:27
+930,01-02-2009 07:30,Product1,1200.0,Mastercard,Fiona,10/27/08 0:00
+931,1/26/09 6:38,Product1,1200.0,Visa,Christian,1/25/09 10:13
+932,1/17/09 7:56,Product3,7500.0,Diners,Michel,1/17/09 7:25
+933,1/17/09 7:58,Product3,7500.0,Diners,natalie,1/17/09 7:25
+934,1/18/09 4:32,Product1,1200.0,Diners,jure,1/17/09 7:25
+935,1/26/09 8:00,Product1,1200.0,Amex,Elizabeth ,1/23/09 11:12
+936,01-11-2009 08:41,Product1,1200.0,Amex,Juliann,01-08-2008 07:24
+937,1/21/09 10:32,Product1,1200.0,Mastercard,Julie ,5/23/07 11:55
+938,1/29/09 12:27,Product1,1200.0,Mastercard,philippa katherine,11-08-2006 04:50
+939,1/13/09 13:19,Product2,3600.0,Mastercard,Anthony,3/16/06 19:11
+940,1/31/09 18:12,Product1,1200.0,Visa,matthew,04-02-2006 11:49
+941,1/22/09 15:35,Product1,1200.0,Visa,Steven,2/24/08 16:57
+942,01-05-2009 11:24,Product1,1200.0,Amex,Angie,1/25/08 16:50
+943,1/23/09 11:23,Product1,1200.0,Mastercard,Lauren,8/26/08 9:37
+944,01-07-2009 20:55,Product1,1200.0,Mastercard,Esther,01-07-2009 20:25
+945,1/13/09 9:40,Product1,1200.0,Visa,Elizabeth,1/26/05 19:09
+946,1/25/09 15:18,Product2,3600.0,Visa,marie-louise,03-02-2008 15:27
+947,1/30/09 20:58,Product2,3600.0,Mastercard,Tanya,1/30/09 14:05
+948,1/31/09 4:50,Product1,1200.0,Mastercard,Detlev,01-12-2009 01:03
+949,1/20/09 10:05,Product2,3600.0,Visa,Stephen,01-09-2009 10:36
+950,01-09-2009 05:15,Product1,1200.0,Visa,Roza,09-09-2008 09:08
+951,1/13/09 7:09,Product2,3600.0,Amex,John,01-08-2009 13:49
+952,01-03-2009 11:03,Product1,1200.0,Mastercard,paula,01-01-2009 22:43
+953,1/17/09 20:51,Product1,1200.0,Visa,Kathryn,01-06-2009 21:52
+954,01-05-2009 07:55,Product1,1200.0,Mastercard,Isabelle,12/31/08 7:40
+955,1/25/09 14:40,Product1,1200.0,Visa,Maureen,1/25/09 13:52
+956,1/25/09 17:55,Product1,1200.0,Visa,David,1/24/09 12:18
+957,01-03-2009 12:54,Product1,1200.0,Diners,caterina,12/30/08 8:39
+958,1/22/09 3:57,Product2,3600.0,Mastercard,Parth,1/20/09 14:36
+959,1/23/09 5:11,Product1,1200.0,Visa,Alexia,7/15/08 7:20
+960,1/25/09 11:52,Product2,3600.0,Mastercard,Gloria Gail ,1/25/09 5:03
+961,01-10-2009 04:12,Product1,1200.0,Visa,Gloria Gail ,01-07-2009 07:39
+962,01-10-2009 09:32,Product2,3600.0,Mastercard,Cheryl,01-10-2005 21:39
+963,1/22/09 12:45,Product3,7500.0,Visa,Frank and Christelle,1/22/09 10:25
+964,01-06-2009 18:11,Product2,3600.0,Mastercard,Triona,06-09-2006 08:57
+965,1/19/09 5:56,Product1,1200.0,Visa,Allison,7/27/08 11:58
+966,1/25/09 10:50,Product1,1200.0,Diners,Phillip,5/29/08 19:51
+967,1/14/09 8:38,Product1,1200.0,Visa,jingyan,03-12-2007 15:14
+968,01-02-2009 17:24,Product2,3600.0,Diners,clara,01-01-2009 21:20
+969,01-07-2009 18:15,Product1,1200.0,Mastercard,Selma,01-05-2009 18:16
+970,01-03-2009 21:19,Product1,1200.0,Visa,Doug and Tina,12/24/07 22:59
+971,01-04-2009 05:13,Product1,1200.0,Visa,Lauren,03-05-2006 00:51
+972,01-04-2009 09:28,Product1,1200.0,Visa,Jen,7/18/05 14:17
+973,01-02-2009 04:34,Product1,1200.0,Visa,gladys,01-10-2006 04:20
+974,1/22/09 11:10,Product1,1200.0,Mastercard,Gustavo,7/28/08 11:12
+975,01-07-2009 12:06,Product1,1200.0,Visa,Erica,3/30/06 2:02
+976,1/29/09 13:25,Product1,1200.0,Diners,Hale,11-03-2005 18:14
+977,1/27/09 2:57,Product1,1200.0,Visa,Rosemary,1/27/09 2:50
+978,01-07-2009 13:19,Product1,1200.0,Visa,Darian,8/26/08 7:33
+979,1/23/09 10:04,Product1,1200.0,Mastercard,Kevin,5/30/06 20:25
+980,1/19/09 4:55,Product1,1200.0,Visa,Alyssa,2/19/08 9:27
+981,1/28/09 22:02,Product1,1200.0,Visa,Hale,1/23/09 22:31
+982,01-04-2009 18:57,Product1,1200.0,Mastercard,KELI,12/23/08 15:17
+983,01-12-2009 20:31,Product1,1200.0,Visa,Glen,01-06-2009 16:53
+984,1/24/09 12:00,Product1,1200.0,Visa,T,12/30/08 15:19
+985,1/28/09 11:19,Product1,1200.0,Visa,christal,6/20/04 17:16
+986,01-07-2009 17:48,Product1,1200.0,Mastercard,Alex,06-10-2005 20:25
+987,1/23/09 12:42,Product2,3600.0,Mastercard,Anke,03-03-2008 17:38
+988,01-07-2009 19:48,Product2,3600.0,Mastercard,TRICIA,9/21/08 20:49
+989,1/26/09 11:19,Product1,1200.0,Mastercard,smith,01-04-2009 05:25
+990,01-05-2009 13:23,Product1,1200.0,Visa,Macy,01-05-2009 11:28
+991,1/26/09 13:41,Product1,1200.0,Mastercard,Lesleigh,10/23/05 9:23
+992,1/20/09 10:42,Product2,3600.0,Diners,esther,1/20/09 9:15
+993,1/22/09 14:25,Product1,1200.0,Visa,Hans-Joerg,11-10-2008 12:15
+994,1/28/09 5:36,Product2,3600.0,Visa,Christiane,01-09-2009 08:10
+995,01-01-2009 04:24,Product3,7500.0,Amex,Pamela,12/28/08 17:28
+996,01-08-2009 11:55,Product1,1200.0,Diners,julie,11/29/06 13:31
+997,01-12-2009 21:30,Product1,1200.0,Visa,Julia ,11/17/08 22:24

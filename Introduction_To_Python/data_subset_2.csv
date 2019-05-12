@@ -1,0 +1,999 @@
+,City,State,Country,Latitude,Longitude,discount,New_price
+0,Basildon,England,United Kingdom,51.5,-1.1166667,0.5,600.0
+1,Parkville                   ,MO,United States,39.195,-94.68194,0.5,600.0
+2,Astoria                     ,OR,United States,46.18806,-123.83,0.5,600.0
+3,Echuca,Victoria,Australia,-36.1333333,144.75,0.5,600.0
+4,Cahaba Heights              ,AL,United States,33.520559999999996,-86.8025,0.5,1800.0
+5,Mickleton                   ,NJ,United States,39.79,-75.23806,0.5,600.0
+6,Peoria                      ,IL,United States,40.69361,-89.58889,0.5,600.0
+7,Martin                      ,TN,United States,36.34333,-88.85028,0.5,600.0
+8,Tel Aviv,Tel Aviv,Israel,32.0666667,34.7666667,0.5,600.0
+9,Chatou,Ile-de-France,France,48.8833333,2.15,0.5,600.0
+10,New York                    ,NY,United States,40.71417,-74.00639,0.5,600.0
+11,Eindhoven,Noord-Brabant,Netherlands,51.45,5.4666667,0.5,600.0
+12,Shavano Park                ,TX,United States,29.423890000000004,-98.49333,0.5,600.0
+13,Eagle                       ,ID,United States,43.69556,-116.35306000000001,0.5,600.0
+14,Riverside                   ,NJ,United States,40.03222,-74.95778,0.5,600.0
+15,Julianstown,Meath,Ireland,53.67722220000001,-6.3191667,0.5,600.0
+16,Ottawa,Ontario,Canada,45.4166667,-75.7,0.5,600.0
+17,Hyderabad,Andhra Pradesh,India,17.3833333,78.4666667,0.5,600.0
+18,London,England,United Kingdom,51.52721,0.14559,0.5,1800.0
+19,Salt Lake City              ,UT,United States,40.76083,-111.89028,0.5,600.0
+20,Manchester,England,United Kingdom,53.5,-2.2166667,0.5,600.0
+21,Ballynora,Cork,Ireland,51.8630556,-8.58,0.5,600.0
+22,Roodepoort,Gauteng,South Africa,-26.1666667,27.866666700000003,0.5,600.0
+23,Chula Vista                 ,CA,United States,32.64,-117.08333,0.5,600.0
+24,Kuopio,Ita-Suomen Laani,Finland,62.9,27.683333299999997,0.5,600.0
+25,Sugar Land                  ,TX,United States,29.61944,-95.63472,0.5,600.0
+26,New York                    ,NY,United States,40.71417,-74.00639,0.5,600.0
+27,London,England,United Kingdom,51.52721,0.14559,0.5,600.0
+28,Morton                      ,IL,United States,40.61278,-89.45917,0.5,600.0
+29,Los Gatos                   ,CA,United States,37.22667,-121.97361000000001,0.5,600.0
+30,New York                    ,NY,United States,40.71417,-74.00639,0.5,600.0
+31,Miami                       ,FL,United States,25.773889999999998,-80.19389,0.5,600.0
+32,Vesenaz,Geneve,Switzerland,46.2333333,6.2,0.5,600.0
+33,Brooklyn                    ,NY,United States,40.65,-73.95,0.5,600.0
+34,Badhoevedorp,Noord-Holland,Netherlands,52.3333333,4.7833333,0.5,600.0
+35,Reston                      ,VA,United States,38.96861,-77.34139,0.5,600.0
+36,Burpengary,Queensland,Australia,-27.1666667,152.95,0.5,1800.0
+37,Phoenix                     ,AZ,United States,33.44833,-112.07333,0.5,600.0
+38,Houston                     ,TX,United States,29.76306,-95.36306,0.5,600.0
+39,Pittsfield                  ,VT,United States,43.772220000000004,-72.81333000000001,0.5,1800.0
+40,Pittsfield                  ,VT,United States,43.772220000000004,-72.81333000000001,0.5,1800.0
+41,Ball Ground                 ,GA,United States,34.33806,-84.37666999999999,0.5,600.0
+42,Helsingor,Frederiksborg,Denmark,56.033333299999995,12.616666699999998,0.5,600.0
+43,Flossmoor                   ,IL,United States,41.54278,-87.68472,0.5,1800.0
+44,Houston                     ,TX,United States,29.76306,-95.36306,0.5,600.0
+45,Delray Beach                ,FL,United States,26.461109999999998,-80.07306,0.5,1800.0
+46,Newbury,England,United Kingdom,51.4,-1.3166666999999999,0.5,600.0
+47,Kobenhavn,Kobenhavn,Denmark,55.6666667,12.583333300000001,0.5,600.0
+48,Sandy Springs               ,GA,United States,33.924170000000004,-84.37861,0.5,600.0
+49,Kinsaley,Dublin,Ireland,53.424722200000005,-6.1758333,0.5,600.0
+50,Fort Lauderdale             ,FL,United States,26.12194,-80.14361,0.5,600.0
+51,Melbourne,Victoria,Australia,-37.8166667,144.9666667,0.5,600.0
+52,Ankeny                      ,IA,United States,41.72972,-93.60556,0.5,600.0
+53,Pittsboro                   ,NC,United States,35.72,-79.1775,0.5,600.0
+54,New Rochelle                ,NY,United States,40.911390000000004,-73.78278,0.5,600.0
+55,Gold Coast,Queensland,Australia,-28.0,153.43333330000002,0.5,600.0
+56,Brussels,Brussels (Bruxelles),Belgium,50.8333333,4.3333333,0.5,600.0
+57,Maple Ridge District Municipality,British Columbia,Canada,49.25,-122.5,0.5,600.0
+58,Beachwood                   ,OH,United States,41.46444,-81.50889000000001,0.5,600.0
+59,Prince Albert,Saskatchewan,Canada,53.2,-105.75,0.5,1800.0
+60,Saltsjobaden,Stockholm,Sweden,59.283333299999995,18.3,0.5,600.0
+61,Kemble,England,United Kingdom,51.6766667,-2.0180556,0.5,600.0
+62,W Lebanon                   ,NH,United States,43.64917,-72.31083000000001,0.5,600.0
+63,Headley,England,United Kingdom,51.1166667,-0.8166667,0.5,600.0
+64,Lausanne,Vaud,Switzerland,46.533333299999995,6.6666667,0.5,1800.0
+65,Southampton,England,United Kingdom,50.9,-1.4,0.5,600.0
+66,Woodsboro                   ,MD,United States,39.53306,-77.315,0.5,600.0
+67,Stavanger,Rogaland,Norway,58.966666700000005,5.75,0.5,600.0
+68,Red Deer,Alberta,Canada,52.2666667,-113.8,0.5,600.0
+69,Memphis                     ,TN,United States,35.149440000000006,-90.04889,0.5,600.0
+70,Morges,Vaud,Switzerland,46.5166667,6.5,0.5,600.0
+71,Calgary,Alberta,Canada,51.0833333,-114.08333329999999,0.5,600.0
+72,Belleville,Ontario,Canada,44.1666667,-77.3833333,0.5,600.0
+73,Cincinnati                  ,OH,United States,39.16194,-84.45694,0.5,600.0
+74,Comox,British Columbia,Canada,49.6833333,-124.93333329999999,0.5,600.0
+75,Gasperich,Luxembourg,Luxembourg,49.585555600000006,6.1230556,0.5,600.0
+76,Helens Bay,Northern Ireland,United Kingdom,54.65,-5.7333333,0.5,600.0
+77,Milan,Lombardy,Italy,45.466666700000005,9.2,0.5,600.0
+78,Staten Island               ,NY,United States,40.63667,-74.15916999999999,0.5,600.0
+79,Oslo,Oslo,Norway,59.9166667,10.75,0.5,600.0
+80,Farmington,Michigan,United States,42.46444,-83.37639,0.5,600.0
+81,Santa Monica                ,CA,United States,34.01944,-118.49028,0.5,600.0
+82,Calgary,Alberta,Canada,51.0833333,-114.08333329999999,0.5,600.0
+83,Vancouver,British Columbia,Canada,49.25,-123.13333329999999,0.5,600.0
+84,Irvine                      ,CA,United States,33.66944,-117.82222,0.5,1800.0
+85,Telgte,Nordrhein-Westfalen,Germany,52.3333333,7.9,0.5,1800.0
+86,Cheltenham,England,United Kingdom,51.9,-2.0833333,0.5,600.0
+87,Keller                      ,VA,United States,37.619170000000004,-75.76417,0.5,600.0
+88,Nakskov,Storstrom,Denmark,54.8333333,11.15,0.5,600.0
+89,Honolulu                    ,HI,United States,21.30694,-157.85833,0.5,600.0
+90,Bubuieci,Chisinau,Moldova,46.985,28.9425,0.5,600.0
+91,Amelia Island               ,FL,United States,30.66944,-81.46278000000001,0.5,600.0
+92,Alliston,Ontario,Canada,44.15,-79.8666667,0.5,600.0
+93,La Alberca,Murcia,Spain,37.9333333,-1.1333333,0.5,600.0
+94,Rathgar,Dublin,Ireland,53.31222220000001,-6.2683333,0.5,600.0
+95,Coral Gables                ,FL,United States,25.72111,-80.26861,0.5,600.0
+96,Miami                       ,FL,United States,25.773889999999998,-80.19389,0.5,600.0
+97,Vancouver,British Columbia,Canada,49.25,-123.13333329999999,0.5,600.0
+98,Jumeira,Dubayy,United Arab Emirates,25.209722199999998,55.247777799999994,0.5,600.0
+99,Englewood                   ,CO,United States,39.64778,-104.98722,0.5,600.0
+100,Bournemouth,England,United Kingdom,50.716666700000005,-1.8833332999999999,0.5,600.0
+101,Genoa                       ,IL,United States,42.09722,-88.69278,0.5,600.0
+102,Al 'Adliyah,Al Manamah,Bahrain,26.217222200000002,50.540555600000005,0.5,600.0
+103,Rouen,Upper Normandy,France,49.4333333,1.0833333,0.5,600.0
+104,Parkland                    ,FL,United States,26.309720000000002,-80.2375,0.5,600.0
+105,San Francisco               ,CA,United States,37.775,-122.41833000000001,0.5,600.0
+106,Keller                      ,VA,United States,37.619170000000004,-75.76417,0.5,600.0
+107,Tsawwassen,British Columbia,Canada,49.0166667,-123.08333329999999,0.5,600.0
+108,Clinton                     ,NJ,United States,40.63667,-74.91028,0.5,600.0
+109,Owensboro                   ,KY,United States,37.77417,-87.11333,0.5,600.0
+110,Lakewood Village            ,TX,United States,33.1425,-96.96916999999999,0.5,600.0
+111,Okotoks,Alberta,Canada,50.716666700000005,-113.96666670000002,0.5,600.0
+112,Glimmen,Groningen,Netherlands,53.1333333,6.633333299999999,0.5,600.0
+113,Calgary,Alberta,Canada,51.0833333,-114.08333329999999,0.5,600.0
+114,Kanata,Ontario,Canada,45.3333333,-75.9,0.5,600.0
+115,Bergen,Nordrhein-Westfalen,Germany,51.716666700000005,6.5,0.5,600.0
+116,College Park                ,MD,United States,38.98056,-76.93722,0.5,600.0
+117,Kailua Kona                 ,HI,United States,19.7349,-155.9003,0.5,600.0
+118,Redondo Beach               ,CA,United States,33.84917,-118.3875,0.5,600.0
+119,Fountain Hls                ,AZ,United States,33.611670000000004,-111.71667,0.5,600.0
+120,Brisbane,Queensland,Australia,-27.5,153.0166667,0.5,600.0
+121,Mahopac                     ,NY,United States,41.37222,-73.73389,0.5,1050.0
+122,Ile-Perrot,Quebec,Canada,45.4,-73.9333333,0.5,600.0
+123,Bruxelles,Brussels (Bruxelles),Belgium,50.8333333,4.3333333,0.5,600.0
+124,Chicago                     ,IL,United States,41.85,-87.65,0.5,600.0
+125,Rayford                     ,TX,United States,30.079720000000002,-95.41694,0.5,600.0
+126,Escondido                   ,CA,United States,33.119170000000004,-117.08556000000002,0.5,600.0
+127,Tesvikiye,Istanbul,Turkey,40.6166667,29.066666700000003,0.5,600.0
+128,Centurion,Gauteng,South Africa,-25.874444399999998,28.170555600000004,0.5,600.0
+129,York,England,United Kingdom,53.966666700000005,-1.0833333,0.5,600.0
+130,Ashburn                     ,VA,United States,39.04361,-77.48778,0.5,600.0
+131,Los Angeles                 ,CA,United States,34.05222,-118.24278000000001,0.5,600.0
+132,Edgewood                    ,WA,United States,47.25028,-122.2925,0.5,600.0
+133,New York                    ,NY,United States,40.71417,-74.00639,0.5,600.0
+134,Basingstoke,England,United Kingdom,51.2666667,-1.0833333,0.5,600.0
+135,Den Haag,Zuid-Holland,Netherlands,52.0833333,4.3,0.5,600.0
+136,Marietta                    ,GA,United States,33.9525,-84.55,0.5,600.0
+137,Houston                     ,TX,United States,29.76306,-95.36306,0.5,600.0
+138,West Orange                 ,NJ,United States,40.79861,-74.23944,0.5,600.0
+139,Amsterdam,Noord-Holland,Netherlands,52.35,4.9166667,0.5,600.0
+140,Downey                      ,CA,United States,33.94,-118.13167,0.5,600.0
+141,Urlingford,Kilkenny,Ireland,52.7205556,-7.5825,0.5,600.0
+142,Holte,Kobenhavn,Denmark,55.8166667,12.4666667,0.5,600.0
+143,Freienbach,Schwyz,Switzerland,47.2,8.75,0.5,600.0
+144,Hofheim am Taunus,Hessen,Germany,50.0833333,8.45,0.5,600.0
+145,Lafayette                   ,CA,United States,37.88583,-122.11693999999999,0.5,600.0
+146,Mushrif,,Kuwait,29.289166700000003,48.05,0.5,600.0
+147,Nashville                   ,AR,United States,33.94556,-93.84694,0.5,600.0
+148,New Malden,England,United Kingdom,51.4166667,-0.25,0.5,1800.0
+149,Bishop Auckland,England,United Kingdom,54.65,-1.6666667000000002,0.5,600.0
+150,Navan,Meath,Ireland,53.652777799999996,-6.681388900000001,0.5,3750.0
+151,Joppa,MD,United States,39.433609999999994,-76.35806,0.5,600.0
+152,Joppa,MD,United States,39.433609999999994,-76.35806,0.5,600.0
+153,Hampton                     ,NJ,United States,40.70694,-74.95639,0.5,600.0
+154,Louisville                  ,KY,United States,38.25417,-85.75944,0.5,600.0
+155,Broadlands                  ,VA,United States,39.04361,-77.48778,0.5,600.0
+156,Yellowknife,Northwest Territories,Canada,62.45,-114.35,0.5,600.0
+157,Los Angeles                 ,CA,United States,34.05222,-118.24278000000001,0.5,1800.0
+158,New York                    ,NY,United States,40.71417,-74.00639,0.5,1800.0
+159,Saint Paul                  ,MN,United States,44.94444,-93.09306,0.5,1800.0
+160,New York                    ,NY,United States,40.71417,-74.00639,0.5,1800.0
+161,Spring Lake Park            ,MN,United States,45.10778,-93.23778,0.5,600.0
+162,Winnipeg,Manitoba,Canada,49.8833333,-97.16666670000001,0.5,600.0
+163,Seattle                     ,WA,United States,47.606390000000005,-122.33083,0.5,600.0
+164,Deptford                    ,NJ,United States,39.83806,-75.15306,0.5,600.0
+165,Amsterdam,Noord-Holland,Netherlands,52.35,4.9166667,0.5,600.0
+166,Alpharetta                  ,GA,United States,34.07528,-84.29417,0.5,600.0
+167,Washington                  ,DC,United States,38.895,-77.03667,0.5,600.0
+168,Holmenkollen,Oslo,Norway,59.966666700000005,10.666666699999999,0.5,600.0
+169,Zekeriyakoy,Istanbul,Turkey,41.1980556,29.0302778,0.5,600.0
+170,Washington                  ,DC,United States,38.895,-77.03667,0.5,600.0
+171,Montreal,Quebec,Canada,45.5,-73.58333329999999,0.5,600.0
+172,Braunschweig,Lower Saxony,Germany,52.2666667,10.5333333,0.5,1800.0
+173,Athens                      ,GA,United States,33.96083,-83.37805999999999,0.5,600.0
+174,Hoschton                    ,GA,United States,34.09639,-83.76139,0.5,600.0
+175,Binningen,Basel-Country,Switzerland,47.533333299999995,7.5666667,0.5,1800.0
+176,Royal Oak                   ,MI,United States,42.48944,-83.14471999999999,0.5,600.0
+177,Royal Oak                   ,MI,United States,42.48944,-83.14471999999999,0.5,600.0
+178,Belmont                     ,MA,United States,42.39583,-71.17917,0.5,600.0
+179,Old Greenwich               ,CT,United States,41.02278,-73.56528,0.5,600.0
+180,Coconut Grove               ,FL,United States,25.712220000000002,-80.25721999999999,0.5,600.0
+181,Vienna                      ,VA,United States,38.901109999999996,-77.26556,0.5,600.0
+182,San Ramon                   ,CA,United States,37.78,-121.97693999999998,0.5,1800.0
+183,Norfolk                     ,VA,United States,36.84667,-76.28556,0.5,600.0
+184,Norfolk                     ,VA,United States,36.84667,-76.28556,0.5,600.0
+185,Aberdeen,Scotland,United Kingdom,57.1333333,-2.1,0.5,600.0
+186,Charlestown,New South Wales,Australia,-32.95,151.66666669999998,0.5,600.0
+187,Wigan,England,United Kingdom,53.533333299999995,-2.6166667,0.5,600.0
+188,Rockville                   ,MD,United States,39.01806,-77.20889,0.5,600.0
+189,Shreveport                  ,LA,United States,32.525,-93.75,0.5,3750.0
+190,Shreveport                  ,LA,United States,32.525,-93.75,0.5,600.0
+191,Little Silver               ,NJ,United States,40.33667,-74.0475,0.5,600.0
+192,Abbey Town,England,United Kingdom,54.8333333,-3.2833333,0.5,600.0
+193,Mid City West               ,PA,United States,39.952220000000004,-75.16417,0.5,600.0
+194,Atlanta,Georgia,United States,33.74889,-84.38806,0.5,600.0
+195,Paris,Ile-de-France,France,48.8666667,2.3333333,0.5,1800.0
+196,Milton Keynes,England,United Kingdom,52.033333299999995,-0.7,0.5,600.0
+197,Dresden,Saxony,Germany,51.05,13.75,0.5,600.0
+198,NYC                         ,NY,United States,40.71417,-74.00639,0.5,600.0
+199,The Grange,Queensland,Australia,-24.8166667,152.41666669999998,0.5,600.0
+200,Brookline                   ,MA,United States,42.33167,-71.12167,0.5,600.0
+201,Montreal-Nord,Quebec,Canada,45.6,-73.6166667,0.5,600.0
+202,Irving                      ,TX,United States,32.81389,-96.94861,0.5,600.0
+203,Ottawa Hills                ,OH,United States,41.66417,-83.64333,0.5,600.0
+204,Portola Valley              ,CA,United States,37.384170000000005,-122.23416999999999,0.5,1800.0
+205,Sydney,New South Wales,Australia,-33.8833333,151.2166667,0.5,600.0
+206,Kearns                      ,UT,United States,40.66,-111.99556000000001,0.5,3750.0
+207,Wollongong,New South Wales,Australia,-34.4333333,150.8833333,0.5,600.0
+208,Brooklyn                    ,NY,United States,40.65,-73.95,0.5,600.0
+209,Penngrove                   ,CA,United States,38.29972,-122.66556000000001,0.5,1800.0
+210,Lemont                      ,IL,United States,41.67361,-88.00166999999999,0.5,600.0
+211,San Carlos                  ,CA,United States,37.507220000000004,-122.25943999999998,0.5,600.0
+212,Chicago                     ,IL,United States,41.85,-87.65,0.5,600.0
+213,Oslo,Oslo,Norway,59.9166667,10.75,0.5,600.0
+214,Wantagh,NY,United States,40.683609999999994,-73.51056,0.5,600.0
+215,Coomera,Queensland,Australia,-27.883333299999997,153.3,0.5,600.0
+216,Fort Oglethorpe             ,GA,United States,34.948890000000006,-85.25694,0.5,600.0
+217,Corbin City                 ,NJ,United States,39.24167,-74.81555999999999,0.5,600.0
+218,Lakeside                    ,CA,United States,32.85722,-116.92138999999999,0.5,600.0
+219,Margate                     ,FL,United States,26.309720000000002,-80.2375,0.5,600.0
+220,South Palm Beach            ,FL,United States,26.70528,-80.03667,0.5,600.0
+221,New York                    ,NY,United States,40.71417,-74.00639,0.5,600.0
+222,Anchorage                   ,AK,United States,61.218059999999994,-149.90028,0.5,600.0
+223,Mona Vale,New South Wales,Australia,-33.6666667,151.3,0.5,1800.0
+224,Castricum,Noord-Holland,Netherlands,52.55,4.6666667,0.5,600.0
+225,North Brunswick             ,NJ,United States,40.4497,-74.482,0.5,600.0
+226,Jacksonville                ,FL,United States,30.331940000000003,-81.65583000000001,0.5,1800.0
+227,Baytown                     ,TX,United States,29.73528,-94.97721999999999,0.5,600.0
+228,Winter Haven                ,FL,United States,28.02194,-81.73306,0.5,600.0
+229,Gonzaga Univ                ,WA,United States,47.65889,-117.425,0.5,600.0
+230,Malmo,Skane,Sweden,55.6,13.0,0.5,1800.0
+231,San Pawl tat-Targa, ,Malta,35.9202778,14.4425,0.5,1800.0
+232,Wiesbaden,Hessen,Germany,50.0833333,8.25,0.5,1800.0
+233,London,England,United Kingdom,51.52721,0.14559,0.5,600.0
+234,Stavanger,Rogaland,Norway,58.966666700000005,5.75,0.5,600.0
+235,Cork,Cork,Ireland,51.898611100000004,-8.495833300000001,0.5,1800.0
+236,Winchester                  ,MA,United States,42.452220000000004,-71.1375,0.5,600.0
+237,Calgary,Alberta,Canada,51.0833333,-114.08333329999999,0.5,600.0
+238,Dallas                      ,TX,United States,32.78333,-96.8,0.5,600.0
+239,Malahide,Dublin,Ireland,53.4508333,-6.1544444,0.5,600.0
+240,Saint Paul                  ,MN,United States,44.94444,-93.09306,0.5,1800.0
+241,Edinburgh,Scotland,United Kingdom,55.95,-3.2,0.5,600.0
+242,Naarden,Noord-Holland,Netherlands,52.3,5.15,0.5,600.0
+243,Oldenburg,Lower Saxony,Germany,53.1666667,8.2,0.5,600.0
+244,Rennes,Brittany,France,48.0833333,-1.6833333,0.5,3750.0
+245,Ely                         ,NV,United States,39.2475,-114.88778,0.5,600.0
+246,Norfolk                     ,VA,United States,36.84667,-76.28556,0.5,600.0
+247,Houston                     ,TX,United States,29.76306,-95.36306,0.5,600.0
+248,Chepel,Budapest,Hungary,47.4166667,19.0833333,0.5,600.0
+249,Buffalo Grove               ,IL,United States,41.98111,-89.595,0.5,600.0
+250,Newburgh,Scotland,United Kingdom,56.3333333,-3.25,0.5,600.0
+251,Vienna,Vienna,Austria,48.2,16.3666667,0.5,600.0
+252,Vicenza,Veneto,Italy,45.55,11.55,0.5,600.0
+253,Mechanics Grove             ,PA,United States,39.89694,-76.16389000000001,0.5,600.0
+254,Miami                       ,FL,United States,25.773889999999998,-80.19389,0.5,1800.0
+255,Silver Spring               ,MD,United States,38.990559999999995,-77.02639,0.5,600.0
+256,Kirriemuir,Scotland,United Kingdom,56.6666667,-3.0,0.5,1800.0
+257,Roquefort,Provence-Alpes-Cote d'Azur,France,43.25,5.616666700000001,0.5,600.0
+258,Portland                    ,OR,United States,45.52361,-122.675,0.5,600.0
+259,Staten Island               ,NY,United States,40.56472,-74.1275,0.5,600.0
+260,San Antonio                 ,TX,United States,29.423890000000004,-98.49333,0.5,600.0
+261,Guildford,England,United Kingdom,51.216666700000005,-0.5666667,0.5,1800.0
+262,Horten,Vestfold,Norway,59.413611100000004,10.466944400000001,0.5,600.0
+263,Englewood                   ,CO,United States,39.64778,-104.98722,0.5,1800.0
+264,San Antonio                 ,TX,United States,29.423890000000004,-98.49333,0.5,600.0
+265,Princeville                 ,HI,United States,22.22361,-159.48528000000002,0.5,600.0
+266,Castleknock,Dublin,Ireland,53.3786111,-6.3922222,0.5,600.0
+267,Castleknock,Dublin,Ireland,53.3786111,-6.3922222,0.5,600.0
+268,Bishops Stortford,England,United Kingdom,51.8666667,0.1666667,0.5,600.0
+269,Den Haag,Zuid-Holland,Netherlands,52.0833333,4.3,0.5,1800.0
+270,Lafayette                   ,CA,United States,37.88583,-122.11693999999999,0.5,600.0
+271,Blackpool,England,United Kingdom,53.8166667,-3.05,0.5,600.0
+272,Hellerup,Kobenhavn,Denmark,55.7333333,12.583333300000001,0.5,600.0
+273,London,England,United Kingdom,51.51334,-0.08895,0.5,600.0
+274,N Java                      ,NY,United States,42.683609999999994,-78.33806,0.5,600.0
+275,Munich,Bayern,Germany,48.15,11.583333300000001,0.5,1800.0
+276,Brulon,Pays de la Loire,France,47.966666700000005,-0.23333330000000002,0.5,600.0
+277,Austin                      ,TX,United States,30.26694,-97.74278000000001,0.5,600.0
+278,Midland Park                ,NJ,United States,40.98917,-74.14111,0.5,600.0
+279,Centerport                  ,NY,United States,40.88528,-73.37666999999999,0.5,600.0
+280,Neustift am Walde,Vienna,Austria,48.25,16.3,0.5,600.0
+281,Neustift am Walde,Vienna,Austria,48.25,16.3,0.5,600.0
+282,Shorewood                   ,MN,United States,44.90333,-93.56611,0.5,600.0
+283,Southlake                   ,TX,United States,32.941109999999995,-97.13389000000001,0.5,600.0
+284,Huntington                  ,NY,United States,40.86806,-73.42611,0.5,600.0
+285,The Woodlands               ,TX,United States,30.15778,-95.48917,0.5,600.0
+286,Kelowna,British Columbia,Canada,49.9,-119.48333329999998,0.5,600.0
+287,White House                 ,TN,United States,36.470279999999995,-86.65139,0.5,600.0
+288,Rungsted,Frederiksborg,Denmark,55.8841667,12.5419444,0.5,600.0
+289,Lake Mahopac                ,NY,United States,41.37222,-73.73389,0.5,600.0
+290,Biot,Provence-Alpes-Cote d'Azur,France,43.6333333,7.1,0.5,1800.0
+291,Plantation                  ,FL,United States,26.12194,-80.14361,0.5,1800.0
+292,Killiney,Dublin,Ireland,53.252222200000006,-6.1125,0.5,600.0
+293,Guer,Brittany,France,47.9,-2.1166667,0.5,600.0
+294,Arlington                   ,VA,United States,38.89028,-77.08444,0.5,400.0
+295,Three Hills,Alberta,Canada,51.7,-113.26666670000002,0.5,600.0
+296,Great Falls,Virginia,United States,38.998059999999995,-77.28860999999999,0.5,600.0
+297,London,England,United Kingdom,51.52721,0.14559,0.5,600.0
+298,Clontarf,Dublin,Ireland,53.3591667,-6.2161111,0.5,600.0
+299,Vancouver,British Columbia,Canada,49.25,-123.13333329999999,0.5,600.0
+300,London,England,United Kingdom,51.52721,0.14559,0.5,600.0
+301,Dickerson                   ,MD,United States,39.22,-77.42444,0.5,600.0
+302,Princeton                   ,NJ,United States,40.34861,-74.65944,0.5,600.0
+303,Calgary,Alberta,Canada,51.0833333,-114.08333329999999,0.5,600.0
+304,North Tustin                ,CA,United States,33.76444,-117.79306000000001,0.5,600.0
+305,Gurgaon,Haryana,India,28.4666667,77.0333333,0.5,600.0
+306,Rambouillet,Ile-de-France,France,48.65,1.8333332999999998,0.5,600.0
+307,Gladwyne                    ,PA,United States,40.04056,-75.27944000000001,0.5,600.0
+308,Houston                     ,TX,United States,29.76306,-95.36306,0.5,600.0
+309,London,England,United Kingdom,51.52721,0.14559,0.5,600.0
+310,Slough,England,United Kingdom,51.5,-0.5833333,0.5,600.0
+311,Glan-Munchweiler,Rhineland-Palatinate,Germany,49.466666700000005,7.4333333,0.5,600.0
+312,Downingtown                 ,PA,United States,40.00639,-75.70361,0.5,1800.0
+313,MT Pleasant                 ,TX,United States,33.15667,-94.96806,0.5,600.0
+314,Veigy-Foncenex,Rhone-Alpes,France,46.2666667,6.25,0.5,600.0
+315,Katy                        ,TX,United States,29.785559999999997,-95.82417,0.5,1800.0
+316,Gorey, ,Jersey,49.2,-2.0333333,0.5,600.0
+317,Belgrade                    ,MT,United States,45.776109999999996,-111.17611000000001,0.5,600.0
+318,Calgary,Alberta,Canada,51.0833333,-114.08333329999999,0.5,600.0
+319,Toronto,Ontario,Canada,43.6666667,-79.41666670000001,0.5,600.0
+320,Corrales                    ,NM,United States,35.23778,-106.60611000000002,0.5,600.0
+321,Cork,Cork,Ireland,51.898611100000004,-8.495833300000001,0.5,600.0
+322,Tenafly                     ,NJ,United States,40.92528,-73.96333,0.5,600.0
+323,Leesburg                    ,VA,United States,39.115559999999995,-77.56389,0.5,600.0
+324,Alcona,Ontario,Canada,50.0666667,-91.75,0.5,600.0
+325,Kuala Lumpur,Kuala Lumpur,Malaysia,3.1666667,101.7,0.5,600.0
+326,Sydney,New South Wales,Australia,-33.8833333,151.2166667,0.5,600.0
+327,Nerang,Queensland,Australia,-27.983333299999998,153.33333330000002,0.5,600.0
+328,Bryceville                  ,FL,United States,30.38444,-81.93889,0.5,600.0
+329,Saffron Walden,England,United Kingdom,52.0166667,0.25,0.5,600.0
+330,Sutton,Dublin,Ireland,53.3905556,-6.1216667000000005,0.5,600.0
+331,Durban,KwaZulu-Natal,South Africa,-29.85,31.016666700000002,0.5,600.0
+332,Berkeswell,England,United Kingdom,52.4,-1.6333333,0.5,600.0
+333,Dryden                      ,VA,United States,36.7775,-82.94167,0.5,600.0
+334,Santry,Dublin,Ireland,53.398611100000004,-6.259722200000001,0.5,600.0
+335,Barcelona,Catalonia,Spain,41.3833333,2.1833332999999997,0.5,600.0
+336,Fayetteville                ,NC,United States,35.0525,-78.87861,0.5,600.0
+337,Anse Comeau,Quebec,Canada,49.216666700000005,-68.15,0.5,600.0
+338,Thorlakshofn, ,Iceland,63.85,-21.3666667,0.5,600.0
+339,Overland                    ,KS,United States,38.98222,-94.67056,0.5,1800.0
+340,King City,Ontario,Canada,43.9333333,-79.5333333,0.5,600.0
+341,Leighton Buzzard,England,United Kingdom,51.9166667,-0.65,0.5,600.0
+342,Umea,Vasterbotten,Sweden,63.8333333,20.25,0.5,600.0
+343,Sola,Rogaland,Norway,58.8833333,5.6,0.5,600.0
+344,Stockton-on-Tees,England,United Kingdom,54.5833333,-1.4166667,0.5,600.0
+345,Senatobia                   ,MS,United States,34.6175,-89.96861,0.5,1800.0
+346,Berlin,Berlin,Germany,52.5166667,13.4,0.5,600.0
+347,Waldorf                     ,MD,United States,38.62444,-76.93944,0.5,600.0
+348,Brooklyn                    ,NY,United States,40.65,-73.95,0.5,600.0
+349,Lakeville                   ,MN,United States,44.64972,-93.2425,0.5,600.0
+350,Saint-Cergues,Rhone-Alpes,France,46.2333333,6.3166667,0.5,1800.0
+351,Vancouver,British Columbia,Canada,49.25,-123.13333329999999,0.5,600.0
+352,Stamford                    ,CT,United States,41.053329999999995,-73.53917,0.5,600.0
+353,Rathfarnham,Dublin,Ireland,53.300555599999996,-6.2827778,0.5,600.0
+354,Paris,Ile-de-France,France,48.8666667,2.3333333,0.5,1800.0
+355,Howell                      ,MI,United States,42.60722,-83.92944,0.5,600.0
+356,Encinitas                   ,CA,United States,33.03694,-117.29111,0.5,600.0
+357,Atchison                    ,KS,United States,39.56306,-95.12139,0.5,600.0
+358,Mililani                    ,HI,United States,21.42556,-157.96083000000002,0.5,1800.0
+359,Victor                      ,NY,United States,42.9825,-77.40916999999999,0.5,600.0
+360,Fairbanks                   ,AK,United States,64.83778000000001,-147.71639,0.5,600.0
+361,Soro,Vestsjalland,Denmark,55.4333333,11.566666699999999,0.5,600.0
+362,Warlingham,England,United Kingdom,51.3,-0.05,0.5,600.0
+363,Hamburg,Hamburg,Germany,53.55,10.0,0.5,600.0
+364,Accokeek                    ,MD,United States,38.6675,-77.02861,0.5,600.0
+365,Sunnyvale                   ,CA,United States,37.36889,-122.03528,0.5,600.0
+366,Ithaca                      ,NY,United States,42.44056,-76.49694000000001,0.5,600.0
+367,Houston                     ,TX,United States,29.76306,-95.36306,0.5,600.0
+368,Farmingtn Hls               ,MI,United States,42.46444,-83.37639,0.5,600.0
+369,Brooklyn                    ,NY,United States,40.65,-73.95,0.5,600.0
+370,Great Falls                 ,VA,United States,38.998059999999995,-77.28860999999999,0.5,600.0
+371,Gosport,England,United Kingdom,50.8,-1.1333333,0.5,600.0
+372,Scottsdale                  ,AZ,United States,33.509170000000005,-111.89833,0.5,1800.0
+373,Sunnyvale                   ,CA,United States,37.36889,-122.03528,0.5,600.0
+374,Songnae-dong,Soul-t'ukpyolsi,South Korea,37.533333299999995,127.11666670000001,0.5,600.0
+375,Clyde Hill                  ,WA,United States,47.61056,-122.19944,0.5,1800.0
+376,Ruschlikon,Zurich,Switzerland,47.3,8.55,0.5,600.0
+377,Minneapolis                 ,MN,United States,44.98,-93.26361,0.5,600.0
+378,Chicago                     ,IL,United States,41.85,-87.65,0.5,600.0
+379,Petworth,England,United Kingdom,50.9833333,-0.6,0.5,600.0
+380,Abu Dhabi,Abu Zaby,United Arab Emirates,24.466666699999998,54.3666667,0.5,600.0
+381,Stockholm,Stockholm,Sweden,59.3333333,18.05,0.5,600.0
+382,Queen Creek                 ,AZ,United States,33.24861,-111.63361,0.5,600.0
+383,Queen Creek                 ,AZ,United States,33.24861,-111.63361,0.5,625.0
+384,Durham                      ,NC,United States,35.99389,-78.89889000000001,0.5,600.0
+385,Austin                      ,TX,United States,30.26694,-97.74278000000001,0.5,600.0
+386,Glenn Dale                  ,MD,United States,38.9875,-76.82083,0.5,600.0
+387,Aardal,Sogn og Fjordane,Norway,61.55,6.35,0.5,600.0
+388,Edinburg                    ,TX,United States,26.30139,-98.16306,0.5,600.0
+389,South Melbourne,Victoria,Australia,-37.8333333,144.9666667,0.5,600.0
+390,Fortaleza,Ceara,Brazil,-3.7166667,-38.5,0.5,600.0
+391,Weston                      ,CT,United States,41.200829999999996,-73.38110999999999,0.5,600.0
+392,Reading,England,United Kingdom,51.4333333,-1.0,0.5,600.0
+393,Coconut Grove               ,FL,United States,25.712220000000002,-80.25721999999999,0.5,600.0
+394,London,England,United Kingdom,51.51334,-0.08895,0.5,600.0
+395,San Francisco               ,CA,United States,37.775,-122.41833000000001,0.5,600.0
+396,Zug,Zug,Switzerland,47.1666667,8.516666699999998,0.5,1800.0
+397,Scottsdale                  ,AZ,United States,33.509170000000005,-111.89833,0.5,1800.0
+398,Potomac Falls               ,VA,United States,39.05,-77.40111,0.5,600.0
+399,Superior                    ,CO,United States,39.977779999999996,-105.13139,0.5,600.0
+400,London,England,United Kingdom,51.52721,0.14559,0.5,600.0
+401,Engleside                   ,VA,United States,38.80472,-77.04722,0.5,600.0
+402,New Plymouth City,Taranaki,New Zealand,-39.0666667,174.08333330000002,0.5,600.0
+403,Roanoke                     ,VA,United States,37.20556,-80.03778,0.5,600.0
+404,Norcross                    ,GA,United States,33.941109999999995,-84.21361,0.5,600.0
+405,Sandy Plains                ,GA,United States,34.02306,-84.36166999999999,0.5,600.0
+406,Saint Catharines,Ontario,Canada,43.1666667,-79.2333333,0.5,600.0
+407,Gainesville                 ,VA,United States,38.795559999999995,-77.61417,0.5,600.0
+408,Nordstrand,Oslo,Norway,59.860833299999996,10.7905556,0.5,600.0
+409,Arlington                   ,MA,United States,42.415279999999996,-71.15694,0.5,600.0
+410,West Hills                  ,CA,United States,34.20111,-118.59722,0.5,600.0
+411,San Jose                    ,CA,United States,37.33944,-121.89388999999998,0.5,600.0
+412,London,England,United Kingdom,51.52721,0.14559,0.5,600.0
+413,Oak Park                    ,MI,United States,42.45944,-83.18278000000001,0.5,600.0
+414,Terrell Hills               ,TX,United States,29.423890000000004,-98.49333,0.5,600.0
+415,Jumeira,Dubayy,United Arab Emirates,25.209722199999998,55.247777799999994,0.5,600.0
+416,Falmouth                    ,VA,United States,38.323890000000006,-77.46861,0.5,600.0
+417,Lurgan,Northern Ireland,United Kingdom,54.466666700000005,-6.3333333,0.5,600.0
+418,Richmond                    ,TX,United States,29.581940000000003,-95.76056,0.5,600.0
+419,Den Haag,Zuid-Holland,Netherlands,52.0833333,4.3,0.5,600.0
+420,Ooltewah                    ,TN,United States,35.075,-85.06222,0.5,600.0
+421,Pacific Beach               ,CA,United States,32.797779999999996,-117.23943999999999,0.5,600.0
+422,Austin                      ,TX,United States,30.26694,-97.74278000000001,0.5,600.0
+423,Seattle                     ,WA,United States,47.606390000000005,-122.33083,0.5,600.0
+424,Seattle                     ,WA,United States,47.606390000000005,-122.33083,0.5,600.0
+425,Ottawa,Ontario,Canada,45.4166667,-75.7,0.5,600.0
+426,Vienna                      ,VA,United States,38.901109999999996,-77.26556,0.5,600.0
+427,Torbay,Auckland,New Zealand,-36.7,174.75,0.5,600.0
+428,Shenfield,England,United Kingdom,51.6166667,0.31666669999999997,0.5,600.0
+429,Bergen,Hordaland,Norway,60.3911111,5.3247222,0.5,600.0
+430,Bolton,England,United Kingdom,53.5833333,-2.4333332999999997,0.5,600.0
+431,Sandymount,Dublin,Ireland,53.335,-6.2113889,0.5,600.0
+432,Bellinzona,Ticino,Switzerland,46.2,9.016666699999998,0.5,1800.0
+433,Antwerpen,Antwerpen,Belgium,51.216666700000005,4.4166667,0.5,600.0
+434,Campinas,Sao Paulo,Brazil,-22.9,-47.0833333,0.5,3750.0
+435,Nacka,Stockholm,Sweden,59.3,18.1666667,0.5,600.0
+436,Fremont                     ,CA,United States,37.54833,-121.9875,0.5,600.0
+437,Warwick,Queensland,Australia,-28.233333299999998,152.0166667,0.5,600.0
+438,Holmdel                     ,NJ,United States,40.345,-74.18444000000001,0.5,600.0
+439,Baltimore                   ,MD,United States,39.2725,-76.53166999999999,0.5,600.0
+440,Saggart,Dublin,Ireland,53.28027779999999,-6.4444444,0.5,600.0
+441,Andover                     ,MA,United States,42.65833,-71.1375,0.5,600.0
+442,La Crescenta                ,CA,United States,34.22417,-118.23917,0.5,600.0
+443,Suwanee                     ,GA,United States,34.051390000000005,-84.07139000000001,0.5,600.0
+444,Seattle                     ,WA,United States,47.606390000000005,-122.33083,0.5,1800.0
+445,Arlington                   ,VA,United States,38.89028,-77.08444,0.5,600.0
+446,Calgary,Alberta,Canada,51.0833333,-114.08333329999999,0.5,600.0
+447,Kenmore                     ,WA,United States,47.7575,-122.24278000000001,0.5,600.0
+448,Fresno                      ,CA,United States,36.74778,-119.77139,0.5,600.0
+449,Atascadero                  ,CA,United States,35.48944,-120.66972,0.5,600.0
+450,Barcelona,Catalonia,Spain,41.3833333,2.1833332999999997,0.5,600.0
+451,High Wycombe,England,United Kingdom,51.6333333,-0.7666666999999999,0.5,600.0
+452,Tsaritsyno,Moscow City,Russia,55.6283333,37.6608333,0.5,1800.0
+453,Ajax,Ontario,Canada,43.85,-79.0166667,0.5,600.0
+454,New York                    ,NY,United States,40.71417,-74.00639,0.5,600.0
+455,Fairfield                   ,IA,United States,41.00861,-91.9625,0.5,600.0
+456,North Bay,Ontario,Canada,46.3,-79.45,0.5,600.0
+457,Marietta                    ,GA,United States,33.9525,-84.55,0.5,600.0
+458,Clontarf,Dublin,Ireland,53.3591667,-6.2161111,0.5,600.0
+459,Danville                    ,PA,United States,40.96333,-76.61306,0.5,600.0
+460,Okotoks,Alberta,Canada,50.716666700000005,-113.96666670000002,0.5,1800.0
+461,Anthem                      ,AZ,United States,33.86722,-112.14611000000001,0.5,600.0
+462,Clonmel,Tipperary,Ireland,52.355,-7.703888900000001,0.5,600.0
+463,Arlington                   ,VA,United States,38.89028,-77.08444,0.5,600.0
+464,Orlando                     ,FL,United States,28.538059999999998,-81.37944,0.5,1800.0
+465,Walnut Creek                ,CA,United States,37.90639,-122.06388999999999,0.5,600.0
+466,Centennial                  ,CO,United States,39.57917,-104.87638999999999,0.5,600.0
+467,Newtown                     ,CT,United States,41.41389,-73.30389,0.5,600.0
+468,Vancouver,British Columbia,Canada,49.25,-123.13333329999999,0.5,600.0
+469,York,England,United Kingdom,53.966666700000005,-1.0833333,0.5,600.0
+470,Drogheda,Louth,Ireland,53.718888899999996,-6.3477778,0.5,600.0
+471,Saddle Brook                ,NJ,United States,40.89889,-74.09306,0.5,600.0
+472,San Diego                   ,CA,United States,32.71528,-117.15638999999999,0.5,600.0
+473,Issaquah                    ,WA,United States,47.53028,-122.03138999999999,0.5,600.0
+474,Bolton,England,United Kingdom,53.5833333,-2.4333332999999997,0.5,600.0
+475,Lexington                   ,MA,United States,42.44722,-71.225,0.5,600.0
+476,Altadena                    ,CA,United States,34.18972,-118.13028,0.5,600.0
+477,Altadena                    ,CA,United States,34.18972,-118.13028,0.5,125.0
+478,Davis                       ,CA,United States,38.545,-121.73943999999999,0.5,1800.0
+479,Toronto,Ontario,Canada,43.6666667,-79.41666670000001,0.5,1800.0
+480,Pasadena                    ,CA,United States,34.14778,-118.14361000000001,0.5,600.0
+481,Buffalo Grove               ,IL,United States,41.98111,-89.595,0.5,600.0
+482,London,England,United Kingdom,51.52721,0.14559,0.5,600.0
+483,Newcastle,Wicklow,Ireland,53.0683333,-6.0658332999999995,0.5,600.0
+484,Norwalk                     ,CT,United States,41.1175,-73.40833,0.5,600.0
+485,Besancon,Franche-Comte,France,47.25,6.0333333,0.5,600.0
+486,Monte-Carlo, ,Monaco,43.7333333,7.4166667,0.5,600.0
+487,Monaco, ,Monaco,43.7333333,7.4166667,0.5,600.0
+488,Floyds Knobs                ,IN,United States,38.32444,-85.87361,0.5,600.0
+489,London,England,United Kingdom,51.5,-0.1166667,0.5,600.0
+490,Marietta                    ,GA,United States,33.9525,-84.55,0.5,600.0
+491,Marietta                    ,GA,United States,33.9525,-84.55,0.5,900.0
+492,Hon                         ,HI,United States,21.30694,-157.85833,0.5,600.0
+493,Knoxville                   ,TN,United States,35.96056,-83.92083000000001,0.5,3750.0
+494,Knoxville                   ,TN,United States,35.96056,-83.92083000000001,0.5,600.0
+495,Edinburgh,Scotland,United Kingdom,55.95,-3.2,0.5,600.0
+496,Paris,Ile-de-France,France,48.8666667,2.3333333,0.5,600.0
+497,Humble                      ,TX,United States,29.99861,-95.26194,0.5,600.0
+498,Mashpee                     ,MA,United States,41.64833,-70.48167,0.5,600.0
+499,Hong Kong, ,Hong Kong,22.283333300000002,114.15,0.5,600.0
+500,Birmingham                  ,MI,United States,42.54667,-83.21139000000001,0.5,600.0
+501,St Augustine                ,FL,United States,29.894440000000003,-81.31472,0.5,600.0
+502,Salt Lake City              ,UT,United States,40.76083,-111.89028,0.5,600.0
+503,Seattle                     ,WA,United States,47.606390000000005,-122.33083,0.5,600.0
+504,Ruti,Zurich,Switzerland,47.25,8.85,0.5,600.0
+505,Rogers                      ,AR,United States,36.33194,-94.11833,0.5,3750.0
+506,Rogers                      ,AR,United States,36.33194,-94.11833,0.5,600.0
+507,Dun Laoghaire,Dublin,Ireland,53.2925,-6.1286111,0.5,600.0
+508,Perth,Scotland,United Kingdom,56.4,-3.4333332999999997,0.5,600.0
+509,London,England,United Kingdom,51.51334,-0.08895,0.5,600.0
+510,Gries,Rhineland-Palatinate,Germany,49.4166667,7.4,0.5,600.0
+511,Pietermaritzburg,KwaZulu-Natal,South Africa,-29.616666700000003,30.383333299999997,0.5,3750.0
+512,Sutton Valence,England,United Kingdom,51.2,0.5833333,0.5,600.0
+513,Lyngby,Kobenhavn,Denmark,55.7666667,12.516666699999998,0.5,600.0
+514,Alpine                      ,NJ,United States,40.95583,-73.93167,0.5,600.0
+515,Zurich,Zurich,Switzerland,47.3666667,8.55,0.5,600.0
+516,Saskatoon,Saskatchewan,Canada,52.1333333,-106.66666670000001,0.5,1800.0
+517,Pacific Palisades           ,CA,United States,34.04806,-118.52556000000001,0.5,600.0
+518,Fort Saint James,British Columbia,Canada,54.4333333,-124.25,0.5,600.0
+519,Versoix,Geneve,Switzerland,46.283333299999995,6.1666667,0.5,600.0
+520,Trumansburg                 ,NY,United States,42.54222,-76.66639,0.5,600.0
+521,Kennett Square              ,PA,United States,39.84667,-75.71194,0.5,600.0
+522,San Jose                    ,CA,United States,37.33944,-121.89388999999998,0.5,1800.0
+523,Ban Khlong Sip,Krung Thep,Thailand,13.916666699999999,100.8166667,0.5,1800.0
+524,Morro Bay                   ,CA,United States,35.365829999999995,-120.84889,0.5,600.0
+525,Parramatta,New South Wales,Australia,-33.8166667,151.0,0.5,600.0
+526,Dumbleton,England,United Kingdom,52.0166667,-1.9666667000000002,0.5,600.0
+527,Altlengbach,Lower Austria,Austria,48.15,15.916666699999999,0.5,600.0
+528,Ballincollig,Cork,Ireland,51.8833333,-8.583333300000001,0.5,600.0
+529,Ballincollig,Cork,Ireland,51.8833333,-8.583333300000001,0.5,600.0
+530,Zagore,Stara Zagora,Bulgaria,42.35,25.6666667,0.5,600.0
+531,Vecmilgravis,Riga,Latvia,57.033333299999995,24.1,0.5,600.0
+532,Trelex,Vaud,Switzerland,46.4166667,6.2,0.5,1800.0
+533,Ornex,Rhone-Alpes,France,46.283333299999995,6.1,0.5,600.0
+534,Las Vegas                   ,NV,United States,36.175,-115.13638999999999,0.5,600.0
+535,San Anselmo                 ,CA,United States,37.97472,-122.56056000000001,0.5,1800.0
+536,Hannover,Lower Saxony,Germany,52.3666667,9.7166667,0.5,600.0
+537,N Woodmere                  ,NY,United States,40.66417,-73.70889,0.5,600.0
+538,Madrid,Madrid,Spain,40.4,-3.6833332999999997,0.5,600.0
+539,Castlebar,Mayo,Ireland,53.85,-9.3,0.5,600.0
+540,Fairfax                     ,CA,United States,37.98722,-122.58778000000001,0.5,600.0
+541,Chandler                    ,AZ,United States,33.30611,-111.84056000000001,0.5,600.0
+542,Dammeron Valley             ,UT,United States,37.1306,-113.6492,0.5,600.0
+543,Buffalo                     ,NY,United States,42.886390000000006,-78.87861,0.5,600.0
+544,Olive Branch                ,MS,United States,34.96167,-89.82944,0.5,3750.0
+545,Warwick                     ,NY,United States,41.25639,-74.36028,0.5,600.0
+546,Gisborne,Victoria,Australia,-37.4833333,144.58333330000002,0.5,1800.0
+547,San Mateo                   ,CA,United States,37.56306,-122.32444,0.5,600.0
+548,Milton Keynes,England,United Kingdom,52.033333299999995,-0.7,0.5,600.0
+549,Kecskemet,Bacs-Kiskun,Hungary,46.9,19.783333300000002,0.5,600.0
+550,Nakskov,Storstrom,Denmark,54.8333333,11.15,0.5,600.0
+551,Aloma                       ,FL,United States,28.600559999999998,-81.30667,0.5,600.0
+552,Chandler                    ,AZ,United States,33.30611,-111.84056000000001,0.5,600.0
+553,Kjobenhavn,Staden Kobenhavn,Denmark,55.6666667,12.583333300000001,0.5,600.0
+554,Stockton,England,United Kingdom,52.25,-2.7,0.5,600.0
+555,Cumming                     ,GA,United States,34.20722,-84.14028,0.5,600.0
+556,Little Compton              ,RI,United States,41.51,-71.17166999999999,0.5,600.0
+557,Centennial                  ,CO,United States,39.57917,-104.87638999999999,0.5,600.0
+558,Centennial                  ,CO,United States,39.57917,-104.87638999999999,0.5,6500.0
+559,Herndon                     ,VA,United States,38.969440000000006,-77.38639,0.5,600.0
+560,Vista                       ,CA,United States,33.2,-117.24167,0.5,600.0
+561,Oostburg                    ,WI,United States,43.62278,-87.79444000000001,0.5,600.0
+562,Griffith,New South Wales,Australia,-34.283333299999995,146.0333333,0.5,600.0
+563,Ann Arbor                   ,MI,United States,42.27083,-83.72639000000001,0.5,1800.0
+564,South Jordan                ,UT,United States,40.56222,-111.92889,0.5,600.0
+565,Dubai,Dubayy,United Arab Emirates,25.2522222,55.28,0.5,1800.0
+566,Dubai,Dubayy,United Arab Emirates,25.2522222,55.28,0.5,1800.0
+567,Kirriemuir,Scotland,United Kingdom,56.6666667,-3.0,0.5,1800.0
+568,Tramore,Waterford,Ireland,52.158888899999994,-7.146388900000001,0.5,600.0
+569,Gdansk,Pomorskie,Poland,54.35,18.6666667,0.5,600.0
+570,Arklow,Wicklow,Ireland,52.793055599999995,-6.1413889,0.5,600.0
+571,Lincoln                     ,NE,United States,40.8,-96.66667,0.5,600.0
+572,Tierp,Uppsala,Sweden,60.3333333,17.5,0.5,600.0
+573,Brussels,Brussels (Bruxelles),Belgium,50.8333333,4.3333333,0.5,1800.0
+574,Burr Oak                    ,IA,United States,43.458890000000004,-91.86528,0.5,600.0
+575,Wheaton                     ,IL,United States,41.86611,-88.10694000000001,0.5,600.0
+576,Killeen                     ,TX,United States,31.116940000000003,-97.7275,0.5,1800.0
+577,Manhattan                   ,NY,United States,40.71417,-74.00639,0.5,600.0
+578,Oxford,England,United Kingdom,51.75,-1.25,0.5,600.0
+579,Paris,Ile-de-France,France,48.8666667,2.3333333,0.5,1800.0
+580,Exeter,England,United Kingdom,50.7,-3.5333333,0.5,600.0
+581,Rungsted,Frederiksborg,Denmark,55.8841667,12.5419444,0.5,600.0
+582,London,England,United Kingdom,51.52721,0.14559,0.5,1800.0
+583,Borja,Bohol,Philippines,9.913611099999999,124.0927778,0.5,600.0
+584,London,England,United Kingdom,51.51334,-0.08895,0.5,1800.0
+585,Jamestown                   ,RI,United States,41.49694,-71.36778000000001,0.5,600.0
+586,Owings Mills                ,MD,United States,39.41944,-76.78056,0.5,600.0
+587,Hamilton,Ontario,Canada,43.25,-79.83333329999999,0.5,600.0
+588,Anchorage                   ,AK,United States,61.218059999999994,-149.90028,0.5,600.0
+589,Mornington,Meath,Ireland,53.7233333,-6.2825,0.5,600.0
+590,Fullerton                   ,CA,United States,33.87028,-117.92443999999999,0.5,600.0
+591,Atlanta                     ,GA,United States,33.74889,-84.38806,0.5,600.0
+592,Toronto,Ontario,Canada,43.6666667,-79.41666670000001,0.5,1800.0
+593,Liverpool,England,United Kingdom,53.4166667,-3.0,0.5,600.0
+594,Ponte San Nicolo,Veneto,Italy,45.3666667,11.616666699999998,0.5,1800.0
+595,Las Vegas                   ,NV,United States,36.175,-115.13638999999999,0.5,600.0
+596,Rochester Hills             ,MI,United States,42.68056,-83.13389000000001,0.5,600.0
+597,North Bay,Ontario,Canada,46.3,-79.45,0.5,1800.0
+598,Lindfield,New South Wales,Australia,-33.783333299999995,151.16666669999998,0.5,600.0
+599,Madrid,Madrid,Spain,40.4,-3.6833332999999997,0.5,600.0
+600,Wisconsin Rapids            ,WI,United States,44.38361,-89.81721999999999,0.5,600.0
+601,Austin                      ,TX,United States,30.26694,-97.74278000000001,0.5,600.0
+602,Chicago                     ,IL,United States,41.85,-87.65,0.5,600.0
+603,Las Vegas                   ,NV,United States,36.175,-115.13638999999999,0.5,600.0
+604,Mullingar,Westmeath,Ireland,53.533333299999995,-7.35,0.5,600.0
+605,Melbourne,Victoria,Australia,-37.8166667,144.9666667,0.5,600.0
+606,Ayacucho,Buenos Aires,Argentina,-37.15,-58.4833333,0.5,600.0
+607,Eagan                       ,MN,United States,44.80417,-93.16667,0.5,1800.0
+608,Vossevangen,Hordaland,Norway,60.6333333,6.4333333,0.5,600.0
+609,Ferney-Voltaire,Rhone-Alpes,France,46.25,6.116666700000001,0.5,600.0
+610,Sevilla,Andalucia,Spain,37.3772222,-5.9869444000000005,0.5,600.0
+611,Munchengosserstadt,Thuringia,Germany,51.05,11.65,0.5,600.0
+612,Lindenhurst                 ,NY,United States,40.68667,-73.37389,0.5,600.0
+613,Bloomfield                  ,MI,United States,42.53778,-83.23306,0.5,600.0
+614,Calgary,Alberta,Canada,51.0833333,-114.08333329999999,0.5,600.0
+615,Vancouver,British Columbia,Canada,49.25,-123.13333329999999,0.5,1800.0
+616,Klampenborg,Kobenhavn,Denmark,55.7666667,12.6,0.5,600.0
+617,Calne,England,United Kingdom,51.4333333,-2.0,0.5,600.0
+618,Los Angeles                 ,CA,United States,34.05222,-118.24278000000001,0.5,1800.0
+619,Milano,Lombardy,Italy,45.466666700000005,9.2,0.5,1800.0
+620,Kloten,Zurich,Switzerland,47.45,8.583333300000001,0.5,1800.0
+621,Fayetteville                ,NC,United States,35.0525,-78.87861,0.5,600.0
+622,Simpsonville                ,SC,United States,34.736940000000004,-82.25444,0.5,600.0
+623,Auckland,Auckland,New Zealand,-36.8666667,174.7666667,0.5,600.0
+624,Reading,England,United Kingdom,51.4333333,-1.0,0.5,600.0
+625,North Caldwell              ,NJ,United States,40.83972,-74.27694,0.5,600.0
+626,Coventry,England,United Kingdom,52.4166667,-1.55,0.5,600.0
+627,Orillia,Ontario,Canada,44.6,-79.41666670000001,0.5,600.0
+628,Paris,Ile-de-France,France,48.8666667,2.3333333,0.5,600.0
+629,San Jose                    ,CA,United States,37.33944,-121.89388999999998,0.5,600.0
+630,Ingelheim-Mitte,Rhineland-Palatinate,Germany,49.9833333,8.0666667,0.5,600.0
+631,Leamington Spa,England,United Kingdom,52.3,-1.5333333,0.5,600.0
+632,Regensdorf,Zurich,Switzerland,47.4333333,8.4666667,0.5,600.0
+633,Melbourne,Victoria,Australia,-37.8166667,144.9666667,0.5,600.0
+634,Geneve,Geneve,Switzerland,46.2,6.1666667,0.5,600.0
+635,Vaucluse,New South Wales,Australia,-33.8666667,151.2833333,0.5,600.0
+636,Klosterneuburg,Lower Austria,Austria,48.3,16.3166667,0.5,600.0
+637,Rancho Cordova              ,CA,United States,38.58917,-121.30167,0.5,600.0
+638,Creemore,Ontario,Canada,44.3166667,-80.1,0.5,600.0
+639,Sidcup,England,United Kingdom,51.4166667,0.1166667,0.5,600.0
+640,Minneapolis                 ,MN,United States,44.98,-93.26361,0.5,600.0
+641,Phoenix                     ,MD,United States,39.51639,-76.61639,0.5,1800.0
+642,Edmonton,Alberta,Canada,53.55,-113.5,0.5,600.0
+643,Lyndoch,South Australia,Australia,-34.6166667,138.8833333,0.5,600.0
+644,Larchmont                   ,NY,United States,40.92778,-73.75222,0.5,600.0
+645,Saint Charles               ,IL,United States,41.91417,-88.30861,0.5,600.0
+646,Brentwood                   ,TN,United States,36.03306,-86.78278,0.5,600.0
+647,Pensacola                   ,FL,United States,30.42111,-87.21694000000001,0.5,1800.0
+648,Kelowna,British Columbia,Canada,49.9,-119.48333329999998,0.5,600.0
+649,Toronto,Ontario,Canada,43.6666667,-79.41666670000001,0.5,600.0
+650,Brondby Strand,Kobenhavn,Denmark,55.6166667,12.35,0.5,600.0
+651,Florence,Tuscany,Italy,43.7666667,11.25,0.5,600.0
+652,Perth,Western Australia,Australia,-31.933333299999997,115.83333329999999,0.5,600.0
+653,Saint Petersburg            ,FL,United States,27.770559999999996,-82.67944,0.5,600.0
+654,Aubonne,Vaud,Switzerland,46.4833333,6.4,0.5,600.0
+655,Gava,Catalonia,Spain,41.3,2.0166667,0.5,1800.0
+656,Mc Lean                     ,VA,United States,38.94222,-77.1825,0.5,600.0
+657,Hendersonville              ,TN,United States,36.30472,-86.62,0.5,600.0
+658,Zurich,Zurich,Switzerland,47.3666667,8.55,0.5,1800.0
+659,Watford,England,United Kingdom,51.6666667,-0.4,0.5,600.0
+660,Amsterdam,Noord-Holland,Netherlands,52.35,4.9166667,0.5,600.0
+661,Rochester Hills             ,MI,United States,42.68056,-83.13389000000001,0.5,600.0
+662,Anglesea,Victoria,Australia,-38.4166667,144.16666669999998,0.5,600.0
+663,Killarney,New Providence,The Bahamas,25.05,-77.41666670000001,0.5,600.0
+664,Malibu                      ,CA,United States,34.005,-118.80917,0.5,600.0
+665,Allen                       ,TX,United States,33.10306,-96.67028,0.5,600.0
+666,Evires,Rhone-Alpes,France,46.033333299999995,6.2333333,0.5,600.0
+667,Den Haag,Zuid-Holland,Netherlands,52.0833333,4.3,0.5,600.0
+668,Perth City,Western Australia,Australia,-31.933333299999997,115.83333329999999,0.5,600.0
+669,Redruth,England,United Kingdom,50.2333333,-5.2333333,0.5,600.0
+670,Bruxelles,Brussels (Bruxelles),Belgium,50.8333333,4.3333333,0.5,600.0
+671,London,England,United Kingdom,51.52721,0.14559,0.5,600.0
+672,Montreal,Quebec,Canada,45.5,-73.58333329999999,0.5,600.0
+673,Miami Beach                 ,FL,United States,25.79028,-80.13028,0.5,600.0
+674,Shankill,Dublin,Ireland,53.226111100000004,-6.124444400000001,0.5,600.0
+675,Oxford,England,United Kingdom,51.75,-1.25,0.5,600.0
+676,New York                    ,NY,United States,40.71417,-74.00639,0.5,600.0
+677,Melbourne,Victoria,Australia,-37.8166667,144.9666667,0.5,600.0
+678,Woodland Hills              ,CA,United States,34.16833,-118.605,0.5,600.0
+679,Anchorage                   ,AK,United States,61.218059999999994,-149.90028,0.5,600.0
+680,Yorba Linda                 ,CA,United States,33.88861,-117.81222,0.5,600.0
+681,Waiwera,Auckland,New Zealand,-36.55,174.7166667,0.5,600.0
+682,Jamaica Plain               ,MA,United States,42.30972,-71.12083,0.5,600.0
+683,Oslo,Oslo,Norway,59.9166667,10.75,0.5,600.0
+684,Setagaya,Tokyo,Japan,35.6333333,139.65,0.5,600.0
+685,Donauworth,Bayern,Germany,48.7,10.8,0.5,1800.0
+686,Bandon,Cork,Ireland,51.7469444,-8.7425,0.5,600.0
+687,Ehingen an der Donau,Baden-Wurttemberg,Germany,48.283333299999995,9.733333300000002,0.5,600.0
+688,Paris,Ile-de-France,France,48.8666667,2.3333333,0.5,600.0
+689,Banbury,England,United Kingdom,52.05,-1.3333333,0.5,600.0
+690,Beverly Hills               ,CA,United States,34.073609999999995,-118.39943999999998,0.5,600.0
+691,Danderyd,Stockholm,Sweden,59.4166667,18.0166667,0.5,600.0
+692,Sebastopol                  ,CA,United States,38.40222,-122.82278000000001,0.5,1800.0
+693,Glendora                    ,CA,United States,34.136109999999995,-117.86443999999999,0.5,600.0
+694,Nacka,Stockholm,Sweden,59.3,18.1666667,0.5,600.0
+695,Canterbury,England,United Kingdom,51.2666667,1.0833333,0.5,600.0
+696,Neuchatel,Neuchatel,Switzerland,47.0,6.9666667,0.5,600.0
+697,Billings                    ,MT,United States,45.78333,-108.5,0.5,600.0
+698,Libertyville                ,IL,United States,42.28306,-87.95306,0.5,600.0
+699,Temecula                    ,CA,United States,33.49361,-117.1475,0.5,1800.0
+700,Boise                       ,ID,United States,43.613609999999994,-116.2025,0.5,600.0
+701,Rock Hill                   ,SC,United States,34.92472,-81.02528000000001,0.5,600.0
+702,Mililani                    ,HI,United States,21.42556,-157.96083000000002,0.5,600.0
+703,Scamander,Tasmania,Australia,-41.465,148.25722219999997,0.5,1800.0
+704,Freeport City,Freeport,The Bahamas,26.5333333,-78.7,0.5,600.0
+705,North Vancouver,British Columbia,Canada,49.3166667,-123.06666670000001,0.5,600.0
+706,Ludwigsburg,Baden-Wurttemberg,Germany,48.9,9.183333300000001,0.5,600.0
+707,Rockingham,Western Australia,Australia,-32.283333299999995,115.71666670000002,0.5,600.0
+708,Basel,Basel-Town,Switzerland,47.5666667,7.6,0.5,600.0
+709,Den Haag,Zuid-Holland,Netherlands,52.0833333,4.3,0.5,600.0
+710,Westminster                 ,CO,United States,39.83667,-105.03667,0.5,600.0
+711,Penclawdd,Wales,United Kingdom,51.6333333,-4.1,0.5,1800.0
+712,Ede,Gelderland,Netherlands,52.033333299999995,5.6666667,0.5,1800.0
+713,Plan-les-Ouattes,Geneve,Switzerland,46.1666667,6.116666700000001,0.5,600.0
+714,Stocksund,Stockholm,Sweden,59.3833333,18.0666667,0.5,600.0
+715,Stuttgart,Baden-Wurttemberg,Germany,48.7666667,9.183333300000001,0.5,600.0
+716,Tunbridge Wells,England,United Kingdom,51.1333333,0.2833333,0.5,1800.0
+717,Issaquah                    ,WA,United States,47.53028,-122.03138999999999,0.5,1800.0
+718,Burnaby,British Columbia,Canada,49.25,-122.95,0.5,600.0
+719,Cypress                     ,CA,United States,33.81694,-118.03639,0.5,600.0
+720,Lititz                      ,PA,United States,40.15722,-76.30722,0.5,600.0
+721,London,England,United Kingdom,51.52721,0.14559,0.5,600.0
+722,Chadds Ford                 ,PA,United States,39.87167,-75.59167,0.5,600.0
+723,St Thomas                   ,VI,United States,18.359170000000002,-64.92111,0.5,1800.0
+724,Coppell                     ,TX,United States,32.954440000000005,-97.01472,0.5,600.0
+725,Ladera Ranch                ,CA,United States,33.57056,-117.63861000000001,0.5,600.0
+726,Rathfarnham,Dublin,Ireland,53.300555599999996,-6.2827778,0.5,600.0
+727,Cagliari,Sardinia,Italy,39.216666700000005,9.116666699999998,0.5,1800.0
+728,Charlottenlund,Kobenhavn,Denmark,55.75,12.583333300000001,0.5,600.0
+729,Munchen,Bayern,Germany,49.55,11.583333300000001,0.5,600.0
+730,Firenze,Tuscany,Italy,43.7666667,11.25,0.5,600.0
+731,Baile Atha Bui,Meath,Ireland,53.6186111,-6.920555599999999,0.5,600.0
+732,Chamonix-Mont-Blanc,Rhone-Alpes,France,45.9166667,6.866666700000001,0.5,600.0
+733,Gingins,Vaud,Switzerland,46.4,6.1833333,0.5,600.0
+734,Boca Raton                  ,FL,United States,26.35833,-80.08333,0.5,600.0
+735,Chaska                      ,MN,United States,44.78944,-93.60194,0.5,600.0
+736,Hghlnds Ranch               ,CO,United States,39.61333,-105.01611000000001,0.5,600.0
+737,Atlanta                     ,GA,United States,33.74889,-84.38806,0.5,600.0
+738,Tenafly                     ,NJ,United States,40.92528,-73.96333,0.5,600.0
+739,Aberdeen,Scotland,United Kingdom,57.1333333,-2.1,0.5,600.0
+740,Djurgarden,Stockholm,Sweden,59.3166667,18.1166667,0.5,600.0
+741,Nashville                   ,TN,United States,36.16583,-86.78444,0.5,600.0
+742,Munich,Bayern,Germany,48.15,11.583333300000001,0.5,600.0
+743,Utrecht,Utrecht,Netherlands,52.0833333,5.133333299999999,0.5,1800.0
+744,Boyceville                  ,WI,United States,45.04361,-92.04083,0.5,600.0
+745,Basauri,Pais Vasco,Spain,43.0166667,-2.4,0.5,600.0
+746,Melbourne,Victoria,Australia,-37.8166667,144.9666667,0.5,600.0
+747,Kemerburgaz,Istanbul,Turkey,41.1594444,28.9127778,0.5,600.0
+748,Worcester,England,United Kingdom,52.2,-2.2,0.5,600.0
+749,Thurles,Tipperary,Ireland,52.6819444,-7.802222200000001,0.5,600.0
+750,Den Haag,Zuid-Holland,Netherlands,52.0833333,4.3,0.5,600.0
+751,Cos Cob                     ,CT,United States,41.03333,-73.6,0.5,600.0
+752,Bern,Bern,Switzerland,46.9166667,7.4666667,0.5,1800.0
+753,Leicester,England,United Kingdom,52.6333333,-1.1333333,0.5,600.0
+754,Cornwall,Ontario,Canada,45.0166667,-74.7333333,0.5,600.0
+755,Sterling                    ,VA,United States,39.00611,-77.42889,0.5,1800.0
+756,Cork,Cork,Ireland,51.898611100000004,-8.495833300000001,0.5,600.0
+757,Mount Forest,Ontario,Canada,43.966666700000005,-80.7333333,0.5,600.0
+758,Ridgefield                  ,CT,United States,41.28139,-73.49861,0.5,600.0
+759,Porto Alegre,Rio Grande do Sul,Brazil,-30.0333333,-51.2,0.5,600.0
+760,Cartierville,Quebec,Canada,45.533333299999995,-73.7166667,0.5,600.0
+761,Stuttgart,Baden-Wurttemberg,Germany,48.7666667,9.183333300000001,0.5,600.0
+762,Manhattan                   ,NY,United States,40.71417,-74.00639,0.5,600.0
+763,Sneem,Kerry,Ireland,51.8333333,-9.9,0.5,600.0
+764,Alpharetta                  ,GA,United States,34.07528,-84.29417,0.5,600.0
+765,Sainte-Therese-de-Blainville,Quebec,Canada,45.6333333,-73.85,0.5,600.0
+766,Germantown                  ,TN,United States,35.08667,-89.81,0.5,600.0
+767,Castleknock,Dublin,Ireland,53.3786111,-6.3922222,0.5,600.0
+768,Hono                        ,HI,United States,21.30694,-157.85833,0.5,600.0
+769,New Rochelle                ,NY,United States,40.911390000000004,-73.78278,0.5,600.0
+770,Calgary,Alberta,Canada,51.0833333,-114.08333329999999,0.5,600.0
+771,South Waterford             ,ME,United States,44.1786,-70.7164,0.5,600.0
+772,Washington Township         ,OH,United States,39.75889,-84.19167,0.5,600.0
+773,Guelph,Ontario,Canada,43.55,-80.25,0.5,600.0
+774,Bunbury,Western Australia,Australia,-33.3333333,115.63333329999999,0.5,1800.0
+775,Mettlach,Saarland,Germany,49.5,6.6,0.5,600.0
+776,Oberwil,Basel-Country,Switzerland,47.5166667,7.55,0.5,600.0
+777,Beykoz,Istanbul,Turkey,41.14388889999999,29.090555600000005,0.5,600.0
+778,Arc-et-Senans,Franche-Comte,France,47.033333299999995,5.7666667,0.5,600.0
+779,Grossbodungen,Thuringia,Germany,51.466666700000005,10.5,0.5,600.0
+780,Bruxelles,Brussels (Bruxelles),Belgium,50.8333333,4.3333333,0.5,600.0
+781,Kilcornan,Limerick,Ireland,52.6166667,-8.883333300000002,0.5,600.0
+782,Wilmington                  ,NC,United States,34.225559999999994,-77.945,0.5,600.0
+783,Aix-en-Provence,Provence-Alpes-Cote d'Azur,France,43.533333299999995,5.4333333,0.5,600.0
+784,Lidingo,Stockholm,Sweden,59.3666667,18.1333333,0.5,1800.0
+785,Edmonton,Alberta,Canada,53.55,-113.5,0.5,600.0
+786,Antibes,Provence-Alpes-Cote d'Azur,France,43.5833333,7.116666700000001,0.5,600.0
+787,Seattle                     ,WA,United States,47.606390000000005,-122.33083,0.5,600.0
+788,Rowayton                    ,CT,United States,41.1175,-73.40833,0.5,600.0
+789,Simcoe,Ontario,Canada,42.8333333,-80.3,0.5,600.0
+790,Lebanon                     ,PA,United States,40.34083,-76.41167,0.5,600.0
+791,Birkdale,Queensland,Australia,-27.483333299999998,153.2166667,0.5,600.0
+792,Brisbane,Queensland,Australia,-27.5,153.0166667,0.5,600.0
+793,Strasbourg,Alsace,France,48.5833333,7.75,0.5,600.0
+794,Suchdol,Prague,Czech Republic,50.1333333,14.383333300000002,0.5,600.0
+795,Stuttgart,Baden-Wurttemberg,Germany,48.7666667,9.183333300000001,0.5,600.0
+796,Villanova                   ,PA,United States,40.03722,-75.34944,0.5,1800.0
+797,Norrkoping,Ostergotland,Sweden,58.6,16.1833333,0.5,1800.0
+798,Zumikon,Zurich,Switzerland,47.3333333,8.616666699999998,0.5,600.0
+799,Balgach,St Gallen,Switzerland,47.4166667,9.6,0.5,1800.0
+800,Las Vegas                   ,NV,United States,36.175,-115.13638999999999,0.5,600.0
+801,Prague,Central Bohemia,Czech Republic,50.0833333,14.4666667,0.5,1800.0
+802,Warwick                     ,NY,United States,41.25639,-74.36028,0.5,600.0
+803,Silver Spring               ,MD,United States,38.990559999999995,-77.02639,0.5,1800.0
+804,Sacramento                  ,CA,United States,38.58167,-121.49333,0.5,600.0
+805,Blarney,Cork,Ireland,51.9333333,-8.566666699999999,0.5,600.0
+806,Ballyneety,Limerick,Ireland,52.5961111,-8.546944400000001,0.5,600.0
+807,Haymarket                   ,VA,United States,38.81194,-77.63667,0.5,600.0
+808,George Town, ,Cayman Isls,19.3,-81.3833333,0.5,600.0
+809,Scottsdale                  ,AZ,United States,33.509170000000005,-111.89833,0.5,600.0
+810,Cambridge                   ,MA,United States,42.375,-71.10611,0.5,600.0
+811,Chalfont Saint Peter,England,United Kingdom,51.6,-0.55,0.5,600.0
+812,Birmingham,England,United Kingdom,52.466666700000005,-1.9166667000000002,0.5,600.0
+813,Den Haag,Zuid-Holland,Netherlands,52.0833333,4.3,0.5,600.0
+814,Den Haag,Zuid-Holland,Netherlands,52.0833333,4.3,0.5,3750.0
+815,Newmarket,Cork,Ireland,52.216666700000005,-9.0,0.5,600.0
+816,Irpin',Kiev,Ukraine,50.5166667,30.25,0.5,600.0
+817,Grosseto,Tuscany,Italy,42.7666667,11.133333300000002,0.5,600.0
+818,Pembroke Pines              ,FL,United States,26.01083,-80.14972,0.5,600.0
+819,Waterford,Ontario,Canada,42.9333333,-80.2833333,0.5,600.0
+820,Carouge,Geneve,Switzerland,46.1833333,6.133333299999999,0.5,1800.0
+821,Chester                     ,CT,United States,41.403059999999996,-72.45139,0.5,600.0
+822,Reston                      ,VA,United States,38.96861,-77.34139,0.5,600.0
+823,Milan,Lombardy,Italy,45.466666700000005,9.2,0.5,600.0
+824,Vancouver,British Columbia,Canada,49.25,-123.13333329999999,0.5,600.0
+825,Alpharetta                  ,GA,United States,34.07528,-84.29417,0.5,600.0
+826,Ringgold                    ,GA,United States,34.91583,-85.10916999999999,0.5,600.0
+827,Wall                        ,NJ,United States,40.1478,-74.2133,0.5,600.0
+828,Powell River,British Columbia,Canada,49.8833333,-124.55,0.5,1800.0
+829,Huntington Beach            ,CA,United States,33.66028,-117.99833000000001,0.5,1800.0
+830,Los Gatos                   ,CA,United States,37.22667,-121.97361000000001,0.5,600.0
+831,Oslo,Oslo,Norway,59.9166667,10.75,0.5,1800.0
+832,Oxford,England,United Kingdom,51.75,-1.25,0.5,600.0
+833,Alexandria                  ,VA,United States,38.80472,-77.04722,0.5,600.0
+834,Rome,Lazio,Italy,41.9,12.483333300000002,0.5,600.0
+835,Random Lake                 ,WI,United States,43.55222,-87.96167,0.5,600.0
+836,San Francisco               ,CA,United States,37.775,-122.41833000000001,0.5,600.0
+837,Baluan,General Santos,Philippines,6.103611099999999,125.2163889,0.5,600.0
+838,Brussels,Brussels (Bruxelles),Belgium,50.8333333,4.3333333,0.5,600.0
+839,Bedford Corners             ,NY,United States,41.20417,-73.7275,0.5,600.0
+840,Istanbul,Istanbul,Turkey,41.0186111,28.9647222,0.5,600.0
+841,Hilversum,Noord-Holland,Netherlands,52.2333333,5.1833333,0.5,1800.0
+842,Milford                     ,ME,United States,44.94611,-68.64444,0.5,600.0
+843,Vancouver,British Columbia,Canada,49.25,-123.13333329999999,0.5,600.0
+844,Kidderminster,England,United Kingdom,52.3833333,-2.25,0.5,600.0
+845,Lausanne,Vaud,Switzerland,46.533333299999995,6.6666667,0.5,1800.0
+846,Claygate,England,United Kingdom,51.35,-0.35,0.5,600.0
+847,Laasby,Arhus,Denmark,56.15,9.816666699999999,0.5,600.0
+848,Budaors,Pest,Hungary,47.45,18.966666699999998,0.5,600.0
+849,London,England,United Kingdom,51.52721,0.14559,0.5,600.0
+850,Santo Domingo City,Distrito Nacional,Dominican Republic,18.466666699999998,-69.9,0.5,600.0
+851,Croton On Hudson            ,NY,United States,41.2219,-73.887,0.5,600.0
+852,Vespasiano,Minas Gerais,Brazil,-19.6666667,-43.9166667,0.5,600.0
+853,Nashville                   ,TN,United States,36.16583,-86.78444,0.5,600.0
+854,Ottawa,Ontario,Canada,45.4166667,-75.7,0.5,600.0
+855,Naples                      ,FL,United States,26.14167,-81.795,0.5,600.0
+856,Bridgewater                 ,NJ,United States,40.5945,-74.6244,0.5,600.0
+857,Washington                  ,DC,United States,38.895,-77.03667,0.5,1800.0
+858,Hagen,Lorraine,France,49.5,6.1666667,0.5,600.0
+859,Taicheng,Guangdong,China,22.25,112.78333329999998,0.5,600.0
+860,Groningen,Groningen,Netherlands,53.216666700000005,6.55,0.5,600.0
+861,Villars,Vaud,Switzerland,46.3,7.05,0.5,600.0
+862,Huntersville                ,NC,United States,35.41056,-80.84306,0.5,600.0
+863,Cartersburg                 ,IN,United States,39.698609999999995,-86.46361,0.5,1800.0
+864,Flower Mound                ,TX,United States,33.01444,-97.09666999999999,0.5,600.0
+865,Rochester                   ,MI,United States,42.68056,-83.13389000000001,0.5,600.0
+866,Dubai,Dubayy,United Arab Emirates,25.2522222,55.28,0.5,600.0
+867,Langnau,Zurich,Switzerland,47.283333299999995,8.5333333,0.5,1800.0
+868,Mission,British Columbia,Canada,49.1333333,-122.3,0.5,1800.0
+869,Columbus                    ,OH,United States,39.96111,-82.99889,0.5,600.0
+870,Clondalkin,Dublin,Ireland,53.324444400000004,-6.3972222,0.5,1800.0
+871,Harold's Cross,Dublin,Ireland,53.3263889,-6.2947222,0.5,600.0
+872,Sag Harbor                  ,NY,United States,40.99778,-72.29306,0.5,600.0
+873,San Diego                   ,CA,United States,32.71528,-117.15638999999999,0.5,600.0
+874,Wilmington                  ,DE,United States,39.74583,-75.54694,0.5,600.0
+875,Toronto,Ontario,Canada,43.6666667,-79.41666670000001,0.5,1800.0
+876,Issaquah                    ,WA,United States,47.61056,-122.19944,0.5,600.0
+877,Phuket,Phuket,Thailand,7.883333299999999,98.4,0.5,600.0
+878,Athina,Attiki,Greece,37.9833333,23.7333333,0.5,600.0
+879,Geneve,Geneve,Switzerland,46.2,6.1666667,0.5,600.0
+880,Chichester,England,United Kingdom,50.8333333,-0.7833333,0.5,600.0
+881,Massagno,Ticino,Switzerland,46.0166667,8.95,0.5,600.0
+882,Cardiff,Wales,United Kingdom,51.5,-3.2,0.5,600.0
+883,Ferney-Voltaire,Rhone-Alpes,France,46.25,6.116666700000001,0.5,1800.0
+884,Mableton                    ,GA,United States,33.81861,-84.5825,0.5,1800.0
+885,San Diego                   ,CA,United States,32.71528,-117.15638999999999,0.5,600.0
+886,La Louviere,Hainaut,Belgium,50.466666700000005,4.1833333,0.5,600.0
+887,Minneapolis                 ,MN,United States,44.98,-93.26361,0.5,600.0
+888,Mafra,Santa Catarina,Brazil,-26.1180556,-49.8016667,0.5,600.0
+889,Ashford,England,United Kingdom,51.1333333,0.8833333000000001,0.5,600.0
+890,Edmonton,Alberta,Canada,53.55,-113.5,0.5,600.0
+891,London,England,United Kingdom,51.52721,0.14559,0.5,600.0
+892,Lucca,Tuscany,Italy,43.8333333,10.483333300000002,0.5,600.0
+893,Perth,Western Australia,Australia,-31.933333299999997,115.83333329999999,0.5,600.0
+894,Arlington                   ,VA,United States,38.89028,-77.08444,0.5,1800.0
+895,Calgary,Alberta,Canada,51.0833333,-114.08333329999999,0.5,600.0
+896,Chiefland                   ,FL,United States,29.47472,-82.86,0.5,600.0
+897,Stavenger,Rogaland,Norway,58.966666700000005,5.75,0.5,600.0
+898,Begnins,Vaud,Switzerland,46.4333333,6.25,0.5,1800.0
+899,Newton                      ,MA,United States,42.336940000000006,-71.20971999999999,0.5,600.0
+900,Den Haag,Zuid-Holland,Netherlands,52.0833333,4.3,0.5,600.0
+901,Berikon,Aargau,Switzerland,47.35,8.3833333,0.5,1800.0
+902,Santa Barbaraa,Heredia,Costa Rica,10.0333333,-84.15,0.5,600.0
+903,Churra,Murcia,Spain,38.0166667,-1.1333333,0.5,600.0
+904,Castle Rock                 ,CO,United States,39.37222,-104.85556,0.5,600.0
+905,Zug,Zug,Switzerland,47.1666667,8.516666699999998,0.5,600.0
+906,Ashford,England,United Kingdom,51.1,-4.1,0.5,600.0
+907,Rockville                   ,MD,United States,39.083890000000004,-77.15306,0.5,600.0
+908,Madrid,Madrid,Spain,40.4,-3.6833332999999997,0.5,600.0
+909,Aasgaardstrand,Vestfold,Norway,59.3488889,10.4675,0.5,600.0
+910,Milano,Lombardy,Italy,45.466666700000005,9.2,0.5,600.0
+911,Anieres,Geneve,Switzerland,46.283333299999995,6.2166667,0.5,600.0
+912,Fresno                      ,TX,United States,29.53861,-95.44722,0.5,3750.0
+913,Fresno                      ,TX,United States,29.53861,-95.44722,0.5,600.0
+914,Warwick,Quebec,Canada,45.95,-71.9833333,0.5,600.0
+915,Watford,England,United Kingdom,51.6666667,-0.4,0.5,600.0
+916,Waterford,Waterford,Ireland,52.2583333,-7.1119444000000005,0.5,600.0
+917,Pruszkow,Mazowieckie,Poland,52.1666667,20.8333333,0.5,600.0
+918,Hamilton,Hamilton,Bermuda,32.2941667,-64.7838889,0.5,600.0
+919,Ottawa,Ontario,Canada,45.4166667,-75.7,0.5,1800.0
+920,Montgomery                  ,TX,United States,30.38806,-95.69611,0.5,600.0
+921,Tokyo,Tokyo,Japan,35.685,139.7513889,0.5,600.0
+922,Manteno                     ,IL,United States,41.25056,-87.83139,0.5,600.0
+923,Benoni,Gauteng,South Africa,-26.1833333,28.316666700000003,0.5,600.0
+924,Winter Haven                ,FL,United States,28.02194,-81.73306,0.5,1800.0
+925,Tranby,Buskerud,Norway,59.8166667,10.25,0.5,600.0
+926,Cork,Cork,Ireland,51.898611100000004,-8.495833300000001,0.5,600.0
+927,Fort Lauderdale             ,FL,United States,26.12194,-80.14361,0.5,600.0
+928,Cranberry Twp               ,PA,United States,40.694720000000004,-80.13110999999999,0.5,1800.0
+929,Arlington                   ,VA,United States,38.89028,-77.08444,0.5,600.0
+930,Lake Ronkonkoma,NY,United States,40.835,-73.13167,0.5,600.0
+931,Alexandria                  ,VA,United States,38.80472,-77.04722,0.5,600.0
+932,Lipari,Sicilia,Italy,38.466666700000005,14.95,0.5,3750.0
+933,Lipari,Sicilia,Italy,38.466666700000005,14.95,0.5,3750.0
+934,Lipari,Sicilia,Italy,38.466666700000005,14.95,0.5,600.0
+935,Bluffton                    ,SC,United States,32.236940000000004,-80.86055999999999,0.5,600.0
+936,Winter Spgs                 ,FL,United States,28.69861,-81.30833,0.5,600.0
+937,Chelmsford                  ,MA,United States,42.59972,-71.36778000000001,0.5,600.0
+938,Cabinteely,Dublin,Ireland,53.2594444,-6.1447222,0.5,600.0
+939,Toronto,Ontario,Canada,43.6666667,-79.41666670000001,0.5,1800.0
+940,Cincinnati                  ,OH,United States,39.16194,-84.45694,0.5,600.0
+941,Houston                     ,TX,United States,29.76306,-95.36306,0.5,600.0
+942,Rodeo                       ,CA,United States,38.01722,-122.2875,0.5,600.0
+943,Poughkeepsie                ,NY,United States,41.70028,-73.92139,0.5,600.0
+944,Cincinnati                  ,OH,United States,39.16194,-84.45694,0.5,600.0
+945,North Eastham               ,MA,United States,41.865,-69.99167,0.5,600.0
+946,Sitka                       ,AK,United States,57.053059999999995,-135.33,0.5,1800.0
+947,Carcross,Yukon Territory,Canada,60.1833333,-134.7166667,0.5,1800.0
+948,Taby,Stockholm,Sweden,59.5,18.05,0.5,600.0
+949,Calgary,Alberta,Canada,51.0833333,-114.08333329999999,0.5,1800.0
+950,Alcobendas,Madrid,Spain,40.533333299999995,-3.6333333,0.5,600.0
+951,Chicago                     ,IL,United States,41.85,-87.65,0.5,1800.0
+952,Sammamish                   ,WA,United States,47.641940000000005,-122.07916999999999,0.5,600.0
+953,Waiau Pa,Auckland,New Zealand,-37.1333333,174.75,0.5,600.0
+954,Ewa Beach                   ,HI,United States,21.31556,-158.00722,0.5,600.0
+955,Statesville                 ,NC,United States,35.7825,-80.8875,0.5,600.0
+956,Kapaa                       ,HI,United States,22.078329999999998,-159.32193999999998,0.5,600.0
+957,Burbank                     ,CA,United States,34.18083,-118.30806000000001,0.5,600.0
+958,Oegstgeest,Zuid-Holland,Netherlands,52.1833333,4.4666667,0.5,1800.0
+959,Blackrock,Dublin,Ireland,53.3030556,-6.183055599999999,0.5,600.0
+960,WalcProduct3ee,Tyrol,Austria,47.65,12.316666699999999,0.5,1800.0
+961,Foxrock,Dublin,Ireland,53.2666667,-6.1741667,0.5,600.0
+962,Hilton Head                 ,SC,United States,32.21611,-80.75278,0.5,1800.0
+963,Valley Center               ,CA,United States,33.21833,-117.03333,0.5,3750.0
+964,Swampscott                  ,MA,United States,42.47083,-70.91806,0.5,1800.0
+965,Edinburgh,Scotland,United Kingdom,55.95,-3.2,0.5,600.0
+966,San Antonio                 ,TX,United States,29.423890000000004,-98.49333,0.5,600.0
+967,Bristol                     ,RI,United States,41.67694,-71.26666999999999,0.5,600.0
+968,Perth,Western Australia,Australia,-31.933333299999997,115.83333329999999,0.5,1800.0
+969,Greenville                  ,TX,United States,33.138329999999996,-96.11055999999999,0.5,600.0
+970,Pls Vrds Est                ,CA,United States,33.80056,-118.38917,0.5,600.0
+971,Hradec Kralove,East Bohemia,Czech Republic,50.2116667,15.844166699999999,0.5,600.0
+972,Maidstone,England,United Kingdom,51.2666667,0.5166667,0.5,600.0
+973,Saint Albans,England,United Kingdom,51.75,-0.3333333,0.5,600.0
+974,Voluntari,Bucuresti,Romania,44.466666700000005,26.1333333,0.5,600.0
+975,Nadur, ,Malta,36.0377778,14.294166699999998,0.5,600.0
+976,Morrison                    ,CO,United States,39.65361,-105.19056,0.5,600.0
+977,Cobham,England,United Kingdom,51.3833333,0.4,0.5,600.0
+978,Izmir,Izmir,Turkey,38.4072222,27.150277799999998,0.5,600.0
+979,Hollywood                   ,CA,United States,34.09833,-118.32583000000001,0.5,600.0
+980,Brighton,England,United Kingdom,50.8333333,-0.15,0.5,600.0
+981,Hawera,Taranaki,New Zealand,-39.591666700000005,174.2833333,0.5,600.0
+982,Worongary,Queensland,Australia,-28.05,153.35,0.5,600.0
+983,Atlantida,Guatemala,Guatemala,14.65,-90.4833333,0.5,600.0
+984,El Escorial,Madrid,Spain,40.5833333,-4.116666700000001,0.5,600.0
+985,Morrison                    ,CO,United States,39.65361,-105.19056,0.5,600.0
+986,Augusta                     ,GA,United States,33.51722,-82.07583000000001,0.5,600.0
+987,Avalon,New South Wales,Australia,-33.6333333,151.33333330000002,0.5,1800.0
+988,Sydney,New South Wales,Australia,-33.8833333,151.2166667,0.5,1800.0
+989,Lahti,Etela-Suomen Laani,Finland,60.966666700000005,25.6666667,0.5,600.0
+990,Inner City,Vienna,Austria,48.216666700000005,16.3666667,0.5,600.0
+991,Baden,Aargau,Switzerland,47.466666700000005,8.3,0.5,600.0
+992,Huddersfield,England,United Kingdom,53.65,-1.7833332999999998,0.5,1800.0
+993,Belfast,Northern Ireland,United Kingdom,54.5833333,-5.9333333,0.5,600.0
+994,Black River,Black River,Mauritius,-20.360277800000002,57.366111100000005,0.5,1800.0
+995,Skaneateles                 ,NY,United States,42.946940000000005,-76.42944,0.5,3750.0
+996,Haverhill,England,United Kingdom,52.0833333,0.4333333,0.5,600.0
+997,Madison                     ,WI,United States,43.07306,-89.40111,0.5,600.0
